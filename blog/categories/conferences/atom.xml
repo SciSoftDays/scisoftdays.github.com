@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Scientific Software Days]]></title>
-  <link href="http://scisoftdays.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Conferences | Scientific Software Days]]></title>
+  <link href="http://scisoftdays.org/blog/categories/conferences/atom.xml" rel="self"/>
   <link href="http://scisoftdays.org/"/>
   <updated>2012-09-25T15:23:00-05:00</updated>
   <id>http://scisoftdays.org/</id>
@@ -24,7 +24,7 @@
 University of Texas at Austin<br/>
 Austin TX<br/>
 December 17 2012<br/>
-9 AM &#8211; 5 PM</p>
+9 AM -- 5 PM</p>
 
 <p>Scientists use software for their research. Some of them also develop
 computational software as part of their research. Scientific Software

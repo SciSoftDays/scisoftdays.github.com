@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://SciSoftDays.github.com/blog/archives/</loc>
-        <lastmod>2012-09-25T13:50:16-05:00</lastmod>
+        <loc>
+            http://scisoftdays.org/blog/2012/09/25/announcing-scientific-software-days-2012/
+        </loc>
+        <lastmod>2012-09-25T15:22:50-05:00</lastmod>
     </url>
     <url>
-        <loc>http://SciSoftDays.github.com/</loc>
-        <lastmod>2012-09-25T13:50:16-05:00</lastmod>
+        <loc>http://scisoftdays.org/blog/archives/</loc>
+        <lastmod>2012-09-25T15:22:50-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://scisoftdays.org/</loc>
+        <lastmod>2012-09-25T15:22:50-05:00</lastmod>
     </url>
 </urlset>
