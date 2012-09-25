@@ -7,7 +7,7 @@ categories: Conferences
 author: Andy R. Terrel <aterrel@tacc.utexas.edu>
 ---
 
-CALL FOR PARTICIPATION: 6th ANNUAL SCIENTIFIC SOFTWARE DAY  
+CALL FOR PARTICIPATION: [6th ANNUAL SCIENTIFIC SOFTWARE DAY]({{ root_url }}/workshops/2012)
 
 ACES 2.402  
 University of Texas at Austin  
@@ -41,11 +41,14 @@ you are involved in any end use or development of scientific software,
 you can benefit from and contribute to this goal.
  
 This is, therefore, a somewhat unusual call for presentations. Ideal
-presentations for Scientific Software Days are of two types: 1)
-presentations of generic tools that can be used in scientific software
-development and deployment 2) presentations of specific work, focusing
-on experience in developing scientific software, workflows, and tool
-chains. We are especially seeking presentations of the second type.
+presentations for Scientific Software Days are of two types: 
+
+1. presentations of generic tools that can be used in scientific
+software development and deployment 
+
+2. presentations of specific work, focusing on experience in
+developing scientific software, workflows, and tool chains. We are
+especially seeking presentations of the second type.
  
 We would appreciate a brief introduction to your work intended for a
 general scientific audience, and then a focus on your workflow or any
@@ -54,3 +57,6 @@ required original solutions. The target audience will be a broad
 selection of the scientific and engineering communities with a
 particular interest in supercomputing. Let’s get to know each other
 and learn from one another.
+
+[Conference Details]({{root_url}}/workshops/2012)  
+[Talk Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)
