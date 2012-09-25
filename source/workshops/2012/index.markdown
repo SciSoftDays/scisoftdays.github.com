@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Scientific Software Day 2012"
-date: 2012-09-25 16:13
 comments: true
 sharing: true
 footer: true
@@ -24,13 +23,13 @@ December 17, 2012
 
 ## Invited Speakers
 
-    Will Shroeder 
-    Kitware, Inc.
+>  [Will Shroeder](http://www.kitware.com/company/team/schroeder.html)  
+>  Kitware, Inc.  
 
 <br/>
 
-    Aleksandra Pawlik  
-    Open University on OSS Development  
+>  [Aleksandra Pawlik](http://users.mct.open.ac.uk/anp58/)  
+>  Open University on OSS Development    
 
 
 ## Contributed Speakers
@@ -45,7 +44,7 @@ December 17, 2012
 ## Organizers
 
 * [Victor Eijkhout](http://www.tacc.utexas.edu/staff/victor-eijkhout)
-* [Sergy Fomel](http://www.beg.utexas.edu/personnel_ext.php?id=30)
+* [Sergey Fomel](http://www.beg.utexas.edu/personnel_ext.php?id=30)
 * [Andy R. Terrel](http://andy.terrel.us)
 * [Michael Tobis](http://www.ig.utexas.edu/people/staff/tobis/)
 
