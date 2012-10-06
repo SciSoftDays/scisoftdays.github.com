@@ -9,11 +9,11 @@ author: Andy R. Terrel <aterrel@tacc.utexas.edu>
 
 CALL FOR PARTICIPATION: [6th ANNUAL SCIENTIFIC SOFTWARE DAYS]({{ root_url }}/meetings/2012)
 
-ACES 2.402
-University of Texas at Austin
-Austin TX
-December 17, 2012
-9 AM -- 5 PM
+ACES 2.402  
+University of Texas at Austin  
+Austin TX  
+December 17, 2012  
+9 AM -- 5 PM  
 
 Scientists use software for their research. Some of them also develop
 computational software as part of their research. Scientific Software
@@ -58,5 +58,5 @@ selection of the scientific and engineering communities with a
 particular interest in supercomputing. Let’s get to know each other
 and learn from one another.
 
-[Conference Details]({{root_url}}/meetings/2012)
-[Talk Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)
+### [Conference Details]({{root_url}}/meetings/2012)  
+### [Talk Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)

@@ -11,11 +11,11 @@ footer: true
 
 ## Date and Venue
 
-[ACES](http://www.aces.utexas.edu/) 2.402
-[University of Texas at Austin](http://www.utexas.edu)
-Austin, TX
-December 17, 2012
-9 AM – 5 PM
+[ACES](http://www.aces.utexas.edu/) 2.402  
+[University of Texas at Austin](http://www.utexas.edu)  
+Austin, TX  
+December 17, 2012  
+9 AM – 5 PM  
 
 ## Invited Speakers
 
