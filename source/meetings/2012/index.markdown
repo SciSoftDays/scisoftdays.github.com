@@ -1,35 +1,31 @@
 ---
 layout: page
-title: "Scientific Software Day 2012"
+title: "Scientific Software Days 2012"
 comments: true
 sharing: true
 footer: true
 ---
 
 
-[Registration Open and Free](https://docs.google.com/spreadsheet/viewform?formkey=dF9vVUV2ODlUdzZYcWkyM09FUDUyUnc6MQ)  
-
-[Call for Proposals]({{ root_url }}/blog/2012/09/25/announcing-scientific-software-days-2012/)
-
-[Proposal Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)
+### [Free Registration](https://docs.google.com/spreadsheet/viewform?formkey=dF9vVUV2ODlUdzZYcWkyM09FUDUyUnc6MQ) | [Call for Proposals]({{ root_url }}/blog/2012/09/25/announcing-scientific-software-days-2012/) | [Proposal Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)
 
 ## Date and Venue
 
-[ACES](http://www.aces.utexas.edu/) 2.402  
-[University of Texas at Austin](http://www.utexas.edu)  
-Austin, TX  
-December 17, 2012  
-9 AM – 5 PM  
+[ACES](http://www.aces.utexas.edu/) 2.402
+[University of Texas at Austin](http://www.utexas.edu)
+Austin, TX
+December 17, 2012
+9 AM – 5 PM
 
 ## Invited Speakers
 
->  [Will Shroeder](http://www.kitware.com/company/team/schroeder.html)  
->  Kitware, Inc.  
+>  [Will Shroeder](http://www.kitware.com/company/team/schroeder.html)
+>  Kitware, Inc.
 
 <br/>
 
->  [Aleksandra Pawlik](http://users.mct.open.ac.uk/anp58/)  
->  Open University on OSS Development    
+>  [Aleksandra Pawlik](http://users.mct.open.ac.uk/anp58/)
+>  Open University on OSS Development
 
 
 ## Contributed Speakers
@@ -50,5 +46,5 @@ December 17, 2012
 
 ## Host Institutions
 
-* [Texas Advanced Computing Center](http://www.tacc.utexas.edu/)
-* [Jackson School of Geosciences](http://www.jsg.utexas.edu)
+[![Texas Advanced Computing Center]( {{ rooturl }}/images/TACC_logo.png)](http://www.tacc.utexas.edu/)  
+[![Jackson School of Geosciences]( {{ rooturl }}/images/jsg-logo.jpg )](http://www.jsg.utexas.edu)

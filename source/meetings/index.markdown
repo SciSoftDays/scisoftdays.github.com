@@ -7,7 +7,7 @@ footer: true
 ---
 
 
-* [Fall 2012]({{ root_url }}/workshops/2012)
+* [Fall 2012]({{ root_url }}/meetings/2012)
 * [Spring 2011](http://www.tacc.utexas.edu/softwareday)
 * Spring 2010
 * Spring 2009
