@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Conferences | Scientific Software Days]]></title>
-  <link href="http://scisoftdays.org/blog/categories/conferences/atom.xml" rel="self"/>
+  <link href="http://scisoftdays.org/news/categories/conferences/atom.xml" rel="self"/>
   <link href="http://scisoftdays.org/"/>
-  <updated>2012-09-26T13:59:55-05:00</updated>
+  <updated>2012-10-05T23:43:42-05:00</updated>
   <id>http://scisoftdays.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -15,27 +15,27 @@
   
   <entry>
     <title type="html"><![CDATA[Announcing Scientific Software Days 2012]]></title>
-    <link href="http://scisoftdays.org/blog/2012/09/25/announcing-scientific-software-days-2012/"/>
+    <link href="http://scisoftdays.org/news/2012/09/25/announcing-scientific-software-days-2012/"/>
     <updated>2012-09-25T14:17:00-05:00</updated>
-    <id>http://scisoftdays.org/blog/2012/09/25/announcing-scientific-software-days-2012</id>
-    <content type="html"><![CDATA[<p>CALL FOR PARTICIPATION: <a href="/workshops/2012">6th ANNUAL SCIENTIFIC SOFTWARE DAY</a></p>
+    <id>http://scisoftdays.org/news/2012/09/25/announcing-scientific-software-days-2012</id>
+    <content type="html"><![CDATA[<p>CALL FOR PARTICIPATION: <a href="/meetings/2012">6th ANNUAL SCIENTIFIC SOFTWARE DAYS</a></p>
 
-<p>ACES 2.402<br/>
-University of Texas at Austin<br/>
-Austin TX<br/>
-December 17 2012<br/>
+<p>ACES 2.402
+University of Texas at Austin
+Austin TX
+December 17, 2012
 9 AM -- 5 PM</p>
 
 <p>Scientists use software for their research. Some of them also develop
 computational software as part of their research. Scientific Software
-Day is an ongoing meeting of users and producers of scientific
+Days is an ongoing meeting of users and producers of scientific
 software, with presentations by scientific software tool makers and
 the users of their tools. The objective is to build cross-disciplinary
 community and skills in the diverse set of users and developers of
 scientific software, both academic and industrial.</p>
 
 <p>Most groups that use supercomputing cope with their scientific
-software environment in isolation, and many or most of them are not
+software environment in isolation, not always
 relying on prepackaged “canned” solutions. Many successful lines of
 research and development are achieved, but many times less than
 optimal paths are taken, simply because computing is done by people
@@ -47,7 +47,7 @@ supercomputing centers is stretched and is best at responding to
 specific issues rather than offering broad support.</p>
 
 <p>We seek to build a community to address these needs. The Scientific
-Software Day at UT Austin is intended to nucleate that community. If
+Software Days at UT Austin is intended to nucleate that community. If
 you are involved in any end use or development of scientific software,
 you can benefit from and contribute to this goal.</p>
 
@@ -71,7 +71,7 @@ selection of the scientific and engineering communities with a
 particular interest in supercomputing. Let’s get to know each other
 and learn from one another.</p>
 
-<p><a href="/workshops/2012">Conference Details</a><br/>
+<p><a href="/meetings/2012">Conference Details</a>
 <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ">Talk Submission</a></p>
 ]]></content>
   </entry>
