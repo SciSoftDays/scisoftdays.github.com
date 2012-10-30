@@ -7,7 +7,8 @@ categories: Conferences
 author: Andy R. Terrel <aterrel@tacc.utexas.edu>
 ---
 
-CALL FOR PARTICIPATION: [6th ANNUAL SCIENTIFIC SOFTWARE DAYS]({{ root_url }}/meetings/2012)
+CALL FOR PARTICIPATION: [6th ANNUAL SCIENTIFIC SOFTWARE DAYS]({{ root_url }}/meetings/2012)  
+Deadline for Proposals: Nov 1, 2012
 
 ACES 2.402  
 University of Texas at Austin  
