@@ -7,7 +7,7 @@ footer: true
 ---
 
 
-### [Free Registration](https://docs.google.com/spreadsheet/viewform?formkey=dF9vVUV2ODlUdzZYcWkyM09FUDUyUnc6MQ) | [Call for Proposals]({{ root_url }}/blog/2012/09/25/announcing-scientific-software-days-2012/) | [Proposal Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)
+### [Free Registration](https://docs.google.com/spreadsheet/viewform?formkey=dF9vVUV2ODlUdzZYcWkyM09FUDUyUnc6MQ) | [Call for Proposals]({{ root_url }}/news/2012/09/25/announcing-scientific-software-days-2012/) | [Proposal Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)
 
 ## Date and Venue
 
