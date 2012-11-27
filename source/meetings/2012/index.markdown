@@ -35,7 +35,7 @@ See also: [the full list of speakers and abstracts]({{ root_url }}/meetings/2012
 <table class="table" cellspacing="0">
 <tbody> 
 <tr> <th>Time</th> <th>Speaker</th> <th>Title</th> </tr>
-<tr><td> 10:35 </td><td> </td><td> Registration and Morning Snacks </td></tr>
+<tr><td> 8:30 </td><td> </td><td> Registration and Morning Snacks </td></tr>
 <tr> <td class="even"> 9:00 </td><td> Aleksandra Pawlik  </td><td> <a href="speakers_and_abstracts#pawlik">Everything about scientific software documentation that wasn't in the manual</a> </td></tr>
 <tr><td> 9:45 </td><td>	Lars Koesterke  </td><td> <a href="speakers_and_abstracts#koesterke">Bring on the Stampede: Coding with the Xeon Phi</a> </td></tr>
 <tr><td class="even"> 10:10 </td><td> Travis Oliphant  </td><td>  <a href="speakers_and_abstracts#oliphant">Fortran speed in Python: Numba the Python LLVM Compiler</a> </td></tr>
