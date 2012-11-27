@@ -11,7 +11,7 @@ footer: true
 >  [Greg Abram](http://www.tacc.utexas.edu/staff/gregory-d.-abram) and [Greg Johnson](http://www.tacc.utexas.edu/staff/greg-p.-johnson)</a>  
 > Texas Advanced Computing Center
 
-[DisplayCluster](https://github.com/TACC/DisplayCluster)
+[DisplayCluster](https://github.com/TACC/DisplayCluster) is a software environment for interactively driving large-scale tiled displays. The software allows users to interactively view media such as high-resolution imagery and video, as well as stream content from remote sources such as laptops / desktops or high-performance remote visualization machines. Many users can simultaneously interact with DisplayCluster with devices such as joysticks or touch-enabled devices such as the iPhone / iPad / iTouch or Android devices. Additionally, a Python scripting interface is provided to automate interaction with DisplayCluster.
 
 ##  <a id="demeler"></a>Biophysics and HPC: The UltraScan XSEDE Science Gateway
 
