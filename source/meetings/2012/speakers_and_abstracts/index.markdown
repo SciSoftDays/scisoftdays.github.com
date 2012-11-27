@@ -85,10 +85,13 @@ mean gravity models, and archiving the results.  The software used to solve for
 the gravity model, the Advanced Equation Solver for Parallel Systems (Aesop),
 will be discussed.
 
-## <a id="schroeder"></a> TBA
+## <a id="schroeder"></a> Scaling the Future: How to Practice Open Science
 
 > [Will Schroeder](http://www.kitware.com/company/team/schroeder.html)  
 >  Kitware, Inc.
+
+The growing complexity and scale of research demands that we embrace new methods if we are to support future scientific progress. These methods must be based on the three pillars of Open Science: Open Access, Open Data, and Open Source. This presentation describes some practical means to practice open science, with examples from analytics, computational chemistry, big data, medical computing, video analysis, and visualization. 
+
 
 ## <a id="terrel"></a>Sharing is Caring: NumFOCUS and Open Scientific Code Initiative
 
