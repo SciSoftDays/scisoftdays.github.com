@@ -18,7 +18,7 @@ footer: true
 > [Borries Demeler](http://www.demeler.uthscsa.edu/)  
 > UT Health Science Center San Antonio
 
-UltraScan is a software package for the analysis of biophysical data from experiments investigating solution properties of macromolecules. This presentation will discuss the analysis workflow used to solve a complex computational problem. We describe the UltraScan-3 XSEDE Gateway, which provides a unique analysis environment that  combines multiple tools and layers, including MySQL databases, the XSEDE HPC infrastructure, multi-platform GUI software, a PHP-based LIMS web frontend, and the Apache Airavata Generic Factory (GFAC) into a powerful analysis toolchain. Together, these components provide an easy-to-learn and user-friendly, yet very flexible analysis environment for remote HPC analysis and large data management.
+[UltraScan](http://www.ultrascan.uthscsa.edu) is a software package for the analysis of biophysical data from experiments investigating solution properties of macromolecules. This presentation will discuss the analysis workflow used to solve a complex computational problem. We describe the UltraScan-3 XSEDE Gateway, which provides a unique analysis environment that  combines multiple tools and layers, including MySQL databases, the XSEDE HPC infrastructure, multi-platform GUI software, a PHP-based LIMS web frontend, and the Apache Airavata Generic Factory (GFAC) into a powerful analysis toolchain. Together, these components provide an easy-to-learn and user-friendly, yet very flexible analysis environment for remote HPC analysis and large data management.
 
 ## <a id="james"></a>Having It Both Ways: Eclipse PTP on Desktop and Cluster
 
@@ -67,6 +67,8 @@ Numba is a Python bytecode to LLVM translator that allows creation of fast, mach
 
 > [Aleksandra Pawlik](http://users.mct.open.ac.uk/anp58/)  
 > Open University
+
+How does documentation fit into different contexts of scientific software development? The answer is different for end-user developers and in the case of software used by a wider scientific community. The talk will examine these scenarios and will look in detail at the SciPy Documentation Project, to illustrate how documentation can be crowdsourced in scientific software development. This will lead us to consider how crowdsourcing documentation relates to open source software development and community building.
 
 ## <a id="poole"></a>Data Processing for the NASA GRACE Mission
 
