@@ -95,6 +95,8 @@ will be discussed.
 > [Andy R. Terrel](andy.terrel.us)  
 > Texas Advanced Computing Center
 
+Scientific software is complex, hard to install, and usually written by overworked indentured servants, i.e. graduate students.  Perhaps more importantly, it is the large basis of the modern scientific method, but unlike proofs and lab methodologies, it is often hidden from our peers. To address these issues, a number of initiatives to promote open scientific codes have emerged from various organizations.  I will focus on the [NumFOCUS](http://numfocus.org/) foundation, a new organization the use of accessible and reproducible computing in science and technology.  I will also survey a number of other resources available for scientists to share their code and experiences.
+
 ## <a id="thiruvathukal"></a> Filesystems: Addressing the Last-mile "problem" in Services-Oriented/Cloud Computing
 
 > [George K. Thiruvathukal](http://works.bepress.com/gkthiruvathukal/)  
