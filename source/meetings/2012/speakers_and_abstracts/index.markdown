@@ -80,9 +80,9 @@ mean gravity models, and archiving the results.  The software used to solve for
 the gravity model, the Advanced Equation Solver for Parallel Systems (Aesop),
 will be discussed.
 
-## <a id="shroeder"></a> TBA
+## <a id="schroeder"></a> TBA
 
-> [Will Shroeder](http://www.kitware.com/company/team/schroeder.html)  
+> [Will Schroeder](http://www.kitware.com/company/team/schroeder.html)  
 >  Kitware, Inc.
 
 ## <a id="terrel"></a>Sharing is Caring: NumFOCUS and Open Scientific Code Initiative

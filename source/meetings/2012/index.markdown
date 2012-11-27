@@ -20,7 +20,7 @@ December 17, 2012
 
 ## Invited Speakers
 
->  [Will Shroeder](http://www.kitware.com/company/team/schroeder.html)
+>  [Will Schroeder](http://www.kitware.com/company/team/schroeder.html)
 >  Kitware, Inc.
 
 <br/>
@@ -44,7 +44,7 @@ See also: [the full list of speakers and abstracts]({{ root_url }}/meetings/2012
 <tr><td> 11:15 </td><td> Robert McLay  </td><td>  <a href="speakers_and_abstracts#mclay">All your files are belong to us: Managing massive I/O on HPC Systems</a> </td></tr>
 <tr><td class="even"> 11:40 </td><td> Michael Tobis  </td><td>  <a href="speakers_and_abstracts#tobis">Tex-MECS: Infrastructure for managing ensembles of computations</a> </td></tr>
 <tr><td> 12:05 </td><td> </td><td> Lunch on your own. </td></tr>
-<tr><td class="even"> 13:05 </td><td> Will Shroeder</td><td> <a href="speakers_and_abstracts#shroeder">TBA</a> </td></tr>
+<tr><td class="even"> 13:05 </td><td> Will Schroeder</td><td> <a href="speakers_and_abstracts#schroeder">TBA</a> </td></tr>
 <tr><td> 13:50 </td><td> Doug James  </td><td>  <a href="speakers_and_abstracts#james">Having It Both Ways: Eclipse PTP on Desktop and Cluster</a> </td></tr>
 <tr><td class="even"> 14:15 </td><td> Andrew Morin  </td><td>  <a href="speakers_and_abstracts#morin">Supporting research computing through scientific software collaboratives</a> </td></tr>
 <tr><td> 14:40 </td><td> </td><td> Coffee Break and Afternoon Snacks </td></tr>
