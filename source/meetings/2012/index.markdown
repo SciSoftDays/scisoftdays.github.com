@@ -7,7 +7,7 @@ footer: true
 ---
 
 
-### [Free Registration](https://docs.google.com/spreadsheet/viewform?formkey=dF9vVUV2ODlUdzZYcWkyM09FUDUyUnc6MQ) | [Call for Proposals]({{ root_url }}/news/2012/09/25/announcing-scientific-software-days-2012/) | [Proposal Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)  
+### [Free Registration](https://docs.google.com/spreadsheet/viewform?formkey=dF9vVUV2ODlUdzZYcWkyM09FUDUyUnc6MQ) | <strike>[Call for Proposals]({{ root_url }}/news/2012/09/25/announcing-scientific-software-days-2012/)</strike> | <strike>[Proposal Submission](https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ)</strike>  
 Deadline for Proposals, Nov 1, 2012  
 
 ## Date and Venue
@@ -70,7 +70,33 @@ See also: [the full list of speakers and abstracts]({{ root_url }}/meetings/2012
 * [Andy R. Terrel](http://andy.terrel.us)
 * [Michael Tobis](http://www.ig.utexas.edu/people/staff/tobis/)
 
+## Logistics
+
+### Nearby Hotels
+
+* [AT&T Center](http://www.meetattexas.com/hotel.php)
+* [DoubleTree](http://www.doubletree.com/en/dt/hotels/index.jhtml;jsessionid=UG1R5EL4RM54SCSGBIWMVCQKIYFC5UUC?ctyhocn=AUSFLDT)
+
+
+### Building details
+
+* Physical Address: Southeast corner of Speedway and 24th Street
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=201+East+24th+Street,+Austin,+TX+78712&amp;aq=&amp;sll=30.286753,-97.736317&amp;sspn=149.559833,0.351562&amp;ie=UTF8&amp;hq=&amp;hnear=201+E+24th+St,+Austin,+Travis,+Texas+78712&amp;t=m&amp;ll=30.293831,-97.735577&amp;spn=0.025939,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=201+East+24th+Street,+Austin,+TX+78712&amp;aq=&amp;sll=30.286753,-97.736317&amp;sspn=149.559833,0.351562&amp;ie=UTF8&amp;hq=&amp;hnear=201+E+24th+St,+Austin,+Travis,+Texas+78712&amp;t=m&amp;ll=30.293831,-97.735577&amp;spn=0.025939,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+
+### Travel
+
+* [Airport Bus](http://www.capmetro.org/airport.aspx?id=1168&terms=airport)
+
+* [Nearby Parking](http://www.utexas.edu/parking/parking/garages/pg1.html)
+
+* Directions from Airport
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=FQjZzAEdAbgt-iFoJ9zJqPynHClF_0qLO7FEhjFoJ9zJqPynHA%3BFZ0jzgEdfqks-im3tWqnnLVEhjHW7mCnU_U1TQ&amp;q=AUS+to+201+E+24th+St,+Austin,+TX&amp;aq=t&amp;sll=30.307761,-97.753401&amp;sspn=0.832287,1.407623&amp;ie=UTF8&amp;t=m&amp;saddr=AUS&amp;daddr=201+E+24th+St,+Austin,+TX&amp;ll=30.246018,-97.697296&amp;spn=0.103805,0.145912&amp;z=12&amp;output=embed"></iframe><br /><small><a href="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=FQjZzAEdAbgt-iFoJ9zJqPynHClF_0qLO7FEhjFoJ9zJqPynHA%3BFZ0jzgEdfqks-im3tWqnnLVEhjHW7mCnU_U1TQ&amp;q=AUS+to+201+E+24th+St,+Austin,+TX&amp;aq=t&amp;sll=30.307761,-97.753401&amp;sspn=0.832287,1.407623&amp;ie=UTF8&amp;t=m&amp;saddr=AUS&amp;daddr=201+E+24th+St,+Austin,+TX&amp;ll=30.246018,-97.697296&amp;spn=0.103805,0.145912&amp;z=12" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
 ## Host Institutions
 
-[![Texas Advanced Computing Center]( {{ rooturl }}/images/TACC_logo.png)](http://www.tacc.utexas.edu/)  
+[![Texas Advanced Computing Center]( {{ rooturl }}/images/TACC_logo.png)](http://www.tacc.utexas.edu/)
 [![Jackson School of Geosciences]( {{ rooturl }}/images/jsg-logo.jpg )](http://www.jsg.utexas.edu)
+
