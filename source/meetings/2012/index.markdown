@@ -65,7 +65,7 @@ See also: [the full list of speakers and abstracts]({{ root_url }}/meetings/2012
 ## Organizers
 
 * [Victor Eijkhout](http://www.tacc.utexas.edu/staff/victor-eijkhout)
-* [Sergey Fomel](http://www.beg.utexas.edu/personnel_ext.php?id=30)
+* [Sergey Fomel](http://www.jsg.utexas.edu/researcher/sergey_fomel/)
 * [Andy R. Terrel](http://andy.terrel.us)
 * [Michael Tobis](http://www.ig.utexas.edu/people/staff/tobis/)
 
