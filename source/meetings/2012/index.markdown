@@ -46,7 +46,7 @@ See also: [the full list of speakers and abstracts]({{ root_url }}/meetings/2012
 <tr><td class="even"> 10:10 </td><td> Travis Oliphant  </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#oliphant">Fortran speed in Python: Numba the Python LLVM Compiler</a> </td></tr>
 <tr><td> 10:35 </td><td> </td><td> Coffee Break </td></tr>
 <tr><td class="even"> 10:50 </td><td> George K. Thiruvathukal </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#thiruvathukal">Filesystems: Addressing the Last-mile "problem" in Services-Oriented/Cloud Computing</a> </td></tr>
-<tr><td> 11:15 </td><td> Robert McLay  </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#mclay">All your files are belong to us: Managing massive I/O on HPC Systems</a> </td></tr>
+<tr><td> 11:15 </td><td> Robert McLay  </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#mclay">Reading/Writing Large Parallel Files without upsetting Supercomputer Administrators</a> </td></tr>
 <tr><td class="even"> 11:40 </td><td> Michael Tobis  </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#tobis">Tex-MECS: Infrastructure for managing ensembles of computations</a> </td></tr>
 <tr><td> 12:05 </td><td> </td><td> Lunch on your own. </td></tr>
 <tr><td class="even"> 13:05 </td><td> Will Schroeder</td><td> <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#schroeder">Scaling the Future: How to Practice Open Science</a> </td></tr>

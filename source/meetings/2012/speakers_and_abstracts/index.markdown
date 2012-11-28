@@ -43,17 +43,17 @@ gains for highly-parallel computing workloads. In this presentation, we discuss
 porting computationally intensive algorithms, scaling to large numbers of
 threads and cores, and using Stampede and the Intel Xeon Phi.
 
-## <a id="mclay"></a>All your files are belong to us: Managing massive I/O on HPC Systems
+## <a id="mclay"></a>Reading/Writing Large Parallel Files without upsetting Supercomputer Administrators
 
 > [Robert McLay](http://www.tacc.utexas.edu/staff/robert-mclay)  
 > Texas Advanced Computing Center
 
-One of the largest differences between a supercomputer and your desktop is the
-filesystem.  Supercomputing filesystems are large parallel structures that when
-used properly can achieve amazing metrics.  Unfortunately, when used
-incorrectly the filesystem can crash for the thousands of users on the machine.
-This presentation will focus on best practices when using I/O systems on HPC
-resources and help keep you from getting booted by the sysadmins.
+Large parallel filesystem are magical.  They are a collection of
+computers and disks that act as if they are one very large disk.
+However the magic only goes so far and they are somewhat fragile.
+This talk will explain what issues are and how to avoid the pitfalls.
+As an example this talk will show that it is possible to write single
+large files efficiently in parallel.
 
 ## <a id="morin"></a>Supporting research computing through scientific software collaboratives
 
