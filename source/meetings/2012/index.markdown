@@ -34,6 +34,7 @@ December 17, 2012
 
 See also: [the full list of speakers and abstracts]({{ root_url }}/meetings/2012/speakers_and_abstracts)
 
+<a id="schedule"></a>
 ## Schedule
 
 <table class="table" cellspacing="0">
