@@ -33,10 +33,27 @@ This is an overview of [Eclipse PTP](www.eclipse.org/ptp), a robust, open source
 > [Lars Koesterke](http://www.tacc.utexas.edu/staff/lars-koesterke)  
 > Texas Advanced Computing Center
 
+In January of 2013, TACC will deploy Stampede, the first large-scale cluster
+deployment to include Intel Xeon Phi (MIC) co-processors. The Xeon Phi is a
+highly parallel architecture combining many x86 cores into a single chip.
+Leveraging the standard Intel Xeon technology, developers are able to program
+the Xeon Phi using standard threading models.  This highly-parallel processor
+architecture with a portable threading model promises substantial performance
+gains for highly-parallel computing workloads. In this presentation, we discuss
+porting computationally intensive algorithms, scaling to large numbers of
+threads and cores, and using Stampede and the Intel Xeon Phi.
+
 ## <a id="mclay"></a>All your files are belong to us: Managing massive I/O on HPC Systems
 
 > [Robert McLay](http://www.tacc.utexas.edu/staff/robert-mclay)  
 > Texas Advanced Computing Center
+
+One of the largest differences between a supercomputer and your desktop is the
+filesystem.  Supercomputing filesystems are large parallel structures that when
+used properly can achieve amazing metrics.  Unfortunately, when used
+incorrectly the filesystem can crash for the thousands of users on the machine.
+This presentation will focus on best practices when using I/O systems on HPC
+resources and help keep you from getting booted by the sysadmins.
 
 ## <a id="morin"></a>Supporting research computing through scientific software collaboratives
 
