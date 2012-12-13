@@ -22,7 +22,7 @@ footer: true
 
 ## <a id="james"></a>Having It Both Ways: Eclipse PTP on Desktop and Cluster
 
-> [Doug James](http://www.tacc.utexas.edu/staff/douglas-james)  
+> [Doug James](http://www.tacc.utexas.edu/staff/doug-james)  
 > Texas Advanced Computing Center
 
 This is an overview of [Eclipse PTP](www.eclipse.org/ptp), a robust, open source, multi-platform Integrated Development Environment (IDE) supporting the development of parallel applications in C, C++, and Fortran.  PTP also delivers customized, tight integration with XSEDE (including TACC's) clusters. Developers can use PTP on their desktops to develop, build, debug, manage, submit and monitor remote jobs on XSEDE resources; they can also create "synchronized projects" that reside on both their desktops and remote clusters. Eclipse PTP offers a promising path for improving both code quality and developer productivity; the presenter hopes to increase its visibility and promote its use.
