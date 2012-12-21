@@ -74,24 +74,6 @@ This talk will explain what issues are and how to avoid the pitfalls.
 As an example this talk will show that it is possible to write single
 large files efficiently in parallel.
 
-## <a id="morin"></a>Supporting research computing through scientific software collaboratives
-
-> [Andrew Morin](http://hkl.hms.harvard.edu/)  
-> Harvard Medical School
-
-
-The burdens of supporting, maintaining and administering the ever-growing
-libraries of scientific software required for modern laboratory research can
-place a significant burden on researchers and research groups.  The SBGrid
-Consortium has successfully established a community-based collaborative model
-for scientific software support in the field of structural biology. SBGrid
-deploys and maintains a comprehensive library of structural biology software to
-workstations in member laboratories automatically, without need of end-user
-intervention, thus relieving researchers of software self-support burdens.
-This talk will describe the highly generalizable features, methods and
-technologies behind SBGrid’s success so that other scientific fields might
-benefit from organizing their own SBGrid-style community-based software
-collaborative.
 
 ## <a id="oliphant"></a>Fortran speed in Python: Numba the Python LLVM Compiler
 

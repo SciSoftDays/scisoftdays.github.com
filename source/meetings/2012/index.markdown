@@ -51,7 +51,6 @@ See also: [the full list of speakers and abstracts]({{ root_url }}/meetings/2012
 <tr><td> 12:05 </td><td> </td><td> Lunch on your own. </td></tr>
 <tr><td class="even"> 13:05 </td><td> Will Schroeder</td><td> <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#schroeder">Scaling the Future: How to Practice Open Science</a> </td></tr>
 <tr><td class="even"> 13:50 </td><td> Travis Oliphant  </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#oliphant">Fortran speed in Python: Numba the Python LLVM Compiler</a> </td></tr>
-<tr><td class="even"> 14:15 </td><td> Andrew Morin  </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#morin">Supporting research computing through scientific software collaboratives</a> </td></tr>
 <tr><td> 14:40 </td><td> </td><td> Coffee Break and Afternoon Snacks </td></tr>
 <tr><td class="even"> 14:55 </td><td> Greg Abram	 </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#abram">My Monitor is Bigger than yours: Running Visualization with DisplayCluster on Tiled Arrays</a> </td></tr>
 <tr><td> 15:20 </td><td> Matthew Turk  </td><td>  <a href="{{ root_url }}/meetings/2012/speakers_and_abstracts/#turk">The yt Project: Growing and Engaging a Community of Practice</a> </td></tr>
