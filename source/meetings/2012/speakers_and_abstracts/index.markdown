@@ -132,9 +132,15 @@ Scientific software is complex, hard to install, and usually written by overwork
 ## <a id="thiruvathukal"></a> Filesystems: Addressing the Last-mile "problem" in Services-Oriented/Cloud Computing
 
 > [George K. Thiruvathukal](http://works.bepress.com/gkthiruvathukal/)  
-> Loyola University
+> Loyola University Chicago and IEEE/AIP Computing in Science and Engineering
 
 <a href="http://mediasite.aces.utexas.edu/UTMediasite/Play/a3a4eed80e504854a4b8f1c547de18981d?catalog=3ead8f01-e8c2-4985-ac58-8646be39c432" ><img src="{{ root_url }}/images/1356069297_Video.png" /></a> <a href="http://adhoc.thiruvathukal.com/ssd.2012/nofs.html#(1)" ><img src="{{ root_url }}/images/1356069234_Slides.png" /></a>    
+
+
+We have designed and implemented RestFS, a software framework that provides a uniform, configurable connector layer for mapping remote web-based resources to local filesystem-based resources, recognizing the similarity between these two types of resources. Such mappings enable programmatic access to a resource, as well as composition of two or more resources, through the local operating system’s standard filesystem application programming interface (API), script-able file-based command-line utilities, and interprocess communication (IPC) mechanisms. The framework supports automatic and manual authentication.
+
+As part of this talk, we demonstrate a new filesystem that interfaces to the SketchFab.com service to support 3D model visualization. For more information about the NOFS project, visit http://nofs.googlecode.com, where you can also download and use all of our reference filesystems.
+
 
 ## <a id="tobis"></a>Tex-MECS: Infrastructure for managing ensembles of computations
 
