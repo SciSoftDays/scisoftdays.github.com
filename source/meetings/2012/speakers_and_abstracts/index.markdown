@@ -77,7 +77,7 @@ large files efficiently in parallel.
 
 ## <a id="oliphant"></a>Fortran speed in Python: Numba the Python LLVM Compiler
 
-<a href="http://mediasite.aces.utexas.edu/UTMediasite/Play/1a498563bf334e64a84d17faa1ffad6e1d?catalog=3ead8f01-e8c2-4985-ac58-8646be39c432" ><img src="{{ root_url }}/images/1356069297_Video.png" /></a>  
+<a href="http://mediasite.aces.utexas.edu/UTMediasite/Play/19b8f5a947884c8890d6882dad3f6ae31d?catalog=3ead8f01-e8c2-4985-ac58-8646be39c432" ><img src="{{ root_url }}/images/1356069297_Video.png" /></a>
 
 > [Travis Oliphant](http://www.continuum.io/our-team.html#travis)  
 > Continuum Analytics, Inc
