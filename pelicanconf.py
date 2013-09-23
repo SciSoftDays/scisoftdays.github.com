@@ -49,12 +49,11 @@ SOCIAL = (('Twitter', 'https://twitter.com/scisoftdays'),
           ('Google+', 'https://plus.google.com/114759765621122794742'),
           )
 #          ('Another social link', '#'),)
-DISQUS_SITENAME = "scisoftdays-homepage"
 TWITTER_USERNAME = "scisoftdays"
 
 DEFAULT_PAGINATION = 10
 
-STATIC_PATHS = ['images', 'pdf']
+STATIC_PATHS = ['images', 'pdf', 'CNAME']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
