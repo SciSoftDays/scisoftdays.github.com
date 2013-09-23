@@ -49,6 +49,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/scisoftdays'),
           ('Google+', 'https://plus.google.com/114759765621122794742'),
           )
 #          ('Another social link', '#'),)
+DISQUS_SITENAME = "scisoftdays-homepage"
 TWITTER_USERNAME = "scisoftdays"
 
 DEFAULT_PAGINATION = 10
