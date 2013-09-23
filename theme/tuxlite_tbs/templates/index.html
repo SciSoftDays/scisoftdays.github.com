@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content_title %}{% endblock %}
+{% block content %}        
+
+
+<div class='article'>
+  <div class="content-title"><h1><a href="pages/2013_details.html">SSD 2013</a></h1></div>
+  We are currently planning the 2013 workshop.  To follow the details see the <a href="workshops/2013_details.html">SSD 2013 details page.</a>
+</div>
+
+<div class='article'>
+  <div class="content-title"><h1>About</h1></div>
+    Scientific Software Days is an ongoing meeting of users and producers of scientific software, with presentations by scientific software tool makers and the users of their tools. The objective is to build cross-disciplinary community and skills in the diverse set of users and developers of scientific software, both academic and industrial.
+</div>
+
+<div class='article'>
+  <div class="content-title"><h1>Sponsors</h1></div>
+  Scientific Software Days is proudly sponsored by the Jackson School of Geosciences, Texas Advanced Computing Center, and the Insitute for Computational Engineering and Sciences.
+
+</div>
+
+<hr />
+
+{% if articles %}
+{% for article in articles_page.object_list %}        
+    <div class='article'>
+        <a href="{{ SITEURL }}/{{ article.url }}"><h2>{{ article.title }}</h2></a>
+        <div class= "well small"> {% include "metadata.html" %} </div>
+        <div class="summary">{{ article.summary }} <a class="btn btn-info xsmall" href="{{ SITEURL }}/{{ article.url }}">read more</a></div>
+    </div>	
+				
+    {% if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
+        {% include 'pagination.html' %}
+    {% endif %}
+
+{% endfor %} {# For article #}
+{% endif %} {# If articles #}
+
+{% endblock content %}
+
