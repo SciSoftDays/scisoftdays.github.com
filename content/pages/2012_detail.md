@@ -40,22 +40,22 @@ See also: [the full list of speakers and abstracts](|filename|2012_abstracts.md)
 <tbody> 
 <tr> <th>Time</th> <th>Speaker</th> <th>Title</th> </tr>
 <tr><td> 8:30 </td><td> </td><td> Registration</td></tr>
-<tr> <td class="even"> 9:00 </td><td> Aleksandra Pawlik  </td><td> <a href="2012_abstracts.html/#pawlik">Everything about scientific software documentation that wasn't in the manual</a> </td></tr>
-<tr><td> 9:45 </td><td>	Lars Koesterke  </td><td> <a href="2012_abstracts.html/#koesterke">Bring on the Stampede: Coding with the Xeon Phi</a> </td></tr>
-<tr><td> 10:10 </td><td> Doug James  </td><td>  <a href="2012_abstracts.html/#james">Having It Both Ways: Eclipse PTP on Desktop and Cluster</a> </td></tr>
+<tr> <td class="even"> 9:00 </td><td> Aleksandra Pawlik  </td><td> <a href="2012_abstracts.html#pawlik">Everything about scientific software documentation that wasn't in the manual</a> </td></tr>
+<tr><td> 9:45 </td><td>	Lars Koesterke  </td><td> <a href="2012_abstracts.html#koesterke">Bring on the Stampede: Coding with the Xeon Phi</a> </td></tr>
+<tr><td> 10:10 </td><td> Doug James  </td><td>  <a href="2012_abstracts.html#james">Having It Both Ways: Eclipse PTP on Desktop and Cluster</a> </td></tr>
 <tr><td> 10:35 </td><td> </td><td> Coffee Break </td></tr>
-<tr><td class="even"> 10:50 </td><td> George K. Thiruvathukal </td><td>  <a href="2012_abstracts.html/#thiruvathukal">Filesystems: Addressing the Last-mile "problem" in Services-Oriented/Cloud Computing</a> </td></tr>
-<tr><td> 11:15 </td><td> Robert McLay  </td><td>  <a href="2012_abstracts.html/#mclay">Reading/Writing Large Parallel Files without upsetting Supercomputer Administrators</a> </td></tr>
-<tr><td class="even"> 11:40 </td><td> Michael Tobis  </td><td>  <a href="2012_abstracts.html/#tobis">Tex-MECS: Infrastructure for managing ensembles of computations</a> </td></tr>
+<tr><td class="even"> 10:50 </td><td> George K. Thiruvathukal </td><td>  <a href="2012_abstracts.html#thiruvathukal">Filesystems: Addressing the Last-mile "problem" in Services-Oriented/Cloud Computing</a> </td></tr>
+<tr><td> 11:15 </td><td> Robert McLay  </td><td>  <a href="2012_abstracts.html#mclay">Reading/Writing Large Parallel Files without upsetting Supercomputer Administrators</a> </td></tr>
+<tr><td class="even"> 11:40 </td><td> Michael Tobis  </td><td>  <a href="2012_abstracts.html#tobis">Tex-MECS: Infrastructure for managing ensembles of computations</a> </td></tr>
 <tr><td> 12:05 </td><td> </td><td> Lunch on your own. </td></tr>
-<tr><td class="even"> 13:05 </td><td> Will Schroeder</td><td> <a href="2012_abstracts.html/#schroeder">Scaling the Future: How to Practice Open Science</a> </td></tr>
-<tr><td class="even"> 13:50 </td><td> Travis Oliphant  </td><td>  <a href="2012_abstracts.html/#oliphant">Fortran speed in Python: Numba the Python LLVM Compiler</a> </td></tr>
+<tr><td class="even"> 13:05 </td><td> Will Schroeder</td><td> <a href="2012_abstracts.html#schroeder">Scaling the Future: How to Practice Open Science</a> </td></tr>
+<tr><td class="even"> 13:50 </td><td> Travis Oliphant  </td><td>  <a href="2012_abstracts.html#oliphant">Fortran speed in Python: Numba the Python LLVM Compiler</a> </td></tr>
 <tr><td> 14:40 </td><td> </td><td> Coffee Break and Afternoon Snacks </td></tr>
-<tr><td class="even"> 14:55 </td><td> Greg Abram	 </td><td>  <a href="2012_abstracts.html/#abram">My Monitor is Bigger than yours: Running Visualization with DisplayCluster on Tiled Arrays</a> </td></tr>
-<tr><td> 15:20 </td><td> Matthew Turk  </td><td>  <a href="2012_abstracts.html/#turk">The yt Project: Growing and Engaging a Community of Practice</a> </td></tr>
-<tr><td class="even"> 15:45 </td><td> Borries Demeler </td><td>  <a href="2012_abstracts.html/#demeler">Biophysics and HPC: The UltraScan XSEDE Science Gateway</a> </td></tr>
-<tr><td> 16:10 </td><td> Steve Poole </td><td>  <a href="2012_abstracts.html/#poole">Data Processing for the NASA GRACE Mission</a> </td></tr>
-<tr><td class="even"> 16:35 </td><td> Andy Terrel </td><td>  <a href="2012_abstracts.html/#terrel">Sharing is Caring: NumFOCUS and Open Scientific Code Initiatives</a> </td></tr>
+<tr><td class="even"> 14:55 </td><td> Greg Abram	 </td><td>  <a href="2012_abstracts.html#abram">My Monitor is Bigger than yours: Running Visualization with DisplayCluster on Tiled Arrays</a> </td></tr>
+<tr><td> 15:20 </td><td> Matthew Turk  </td><td>  <a href="2012_abstracts.html#turk">The yt Project: Growing and Engaging a Community of Practice</a> </td></tr>
+<tr><td class="even"> 15:45 </td><td> Borries Demeler </td><td>  <a href="2012_abstracts.html#demeler">Biophysics and HPC: The UltraScan XSEDE Science Gateway</a> </td></tr>
+<tr><td> 16:10 </td><td> Steve Poole </td><td>  <a href="2012_abstracts.html#poole">Data Processing for the NASA GRACE Mission</a> </td></tr>
+<tr><td class="even"> 16:35 </td><td> Andy Terrel </td><td>  <a href="2012_abstracts.html#terrel">Sharing is Caring: NumFOCUS and Open Scientific Code Initiatives</a> </td></tr>
 <tr><td> 17:00 </td><td> </td><td> Roundtable Discussion </td></tr>
 <tr><td class="even"> 17:30 </td><td> </td><td> Adjournment </td></tr>
 </tbody>

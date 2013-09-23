@@ -7,21 +7,21 @@ Category: workshops
 [ACES](http://www.aces.utexas.edu/) Room TBA  
 [University of Texas at Austin](http://www.utexas.edu)  
 Austin, TX  
-December 16 - 17, 2012  
+December 16 - 17, 2013  
 9 AM – 5 PM  
 
 ## Invited Speakers
 
 > Title TBA
-> 
->  [Neil Chue Hong](http://software.ac.uk/about/people/neil-chue-hong)
+>  
+>  [Neil Chue Hong](http://software.ac.uk/about/people/neil-chue-hong)  
 >  Software Sustainability Institute
 
 <br/>
 
 > Title TBA
-> 
->  [James Howison](http://howison.name/)
+>  
+>  [James Howison](http://howison.name/)  
 >  The University of Texas
 
 
