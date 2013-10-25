@@ -29,7 +29,6 @@ December 16 - 17, 2013
 
 * [Victor Eijkhout](http://www.tacc.utexas.edu/staff/victor-eijkhout)
 * [Sergey Fomel](http://www.jsg.utexas.edu/researcher/sergey_fomel/)
-* [Andy R. Terrel](http://andy.terrel.us)
 * [Michael Tobis](http://www.ig.utexas.edu/people/staff/tobis/)
 
 ## Logistics
