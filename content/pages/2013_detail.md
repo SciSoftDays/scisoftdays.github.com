@@ -42,7 +42,7 @@ December 16 - 17, 2013
 
 ### Building details
 
-* Physical Address: Southeast corner of Speedway and 24th Street
+* Location: Southeast corner of Speedway and 24th Street
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=201+East+24th+Street,+Austin,+TX+78712&amp;aq=&amp;sll=30.286753,-97.736317&amp;sspn=149.559833,0.351562&amp;ie=UTF8&amp;hq=&amp;hnear=201+E+24th+St,+Austin,+Travis,+Texas+78712&amp;t=m&amp;ll=30.293831,-97.735577&amp;spn=0.025939,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=201+East+24th+Street,+Austin,+TX+78712&amp;aq=&amp;sll=30.286753,-97.736317&amp;sspn=149.559833,0.351562&amp;ie=UTF8&amp;hq=&amp;hnear=201+E+24th+St,+Austin,+Travis,+Texas+78712&amp;t=m&amp;ll=30.293831,-97.735577&amp;spn=0.025939,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
