@@ -5,34 +5,34 @@
 
 <div class='article'>
   <div class="content-title"><h1><a href="pages/2013_details.html">CALL FOR PARTICIPATION - SSD 2013</a></h1></div>
-We are accepting submissions for SSD 2013. If you would like to participate, please submit your abstract <a href="https://docs.google.com/forms/d/15YZ-8csoNLmG3NT_zHgmo_6vY9ngGWegCCisXTm4pcM/viewform">here</a>.
-
+<p>We are accepting submissions for SSD 2013.</p><p> If you would like to participate, please submit your abstract <a href="https://docs.google.com/forms/d/15YZ-8csoNLmG3NT_zHgmo_6vY9ngGWegCCisXTm4pcM/viewform">here</a>.
+</p>
+<hr />
 </div>
 
 <div class='article'>
   <div class="content-title"><h1>About</h1></div>
-    Scientific Software Days is an ongoing meeting of users and producers of scientific software, with presentations by scientific software tool makers and the users of their tools. 
-
+<p>    Scientific Software Days is an ongoing meeting of users and producers of scientific software, with presentations by scientific software tool makers and the users of their tools. 
+</p><p>
 The intent is to develop skills and networks among scientific software developers and practitioners.
-
+</p><p>
 Presentations are split between corss-cutting software tools and stories of of successful software deployment in various disciplines.
-
-Commonly, less than optimal paths are taken in scientific software development, largely because of resources and skills
-stretched between the relevant science specialties and professional programming. Available tools and methos\ds
+</p><p> Commonly, less than optimal paths are taken in scientific software development, largely because of resources and skills
+stretched between the relevant science specialties and professional programming. Available tools and methods
 are not always known or available to the people who need them. We seek to build a community to address these needs.
-
+</p>
 
 <h2> Keynote </h2>
-
-The Seventh Annual Software Days keynote address will be given by Neil Chue Hong, director of the Software Sustainability Institute of the University of Edinburgh.
-
+<p>
+The Seventh Annual Software Days keynote address will be given by <a href="http://www.ph.ed.ac.uk/people/neil-chue-hong">Neil Chue Hong</a>, director of the Software Sustainability Institute of the University of Edinburgh.
+</p>
 
 </div>
 
 <div class='article'>
   <div class="content-title"><h1>Sponsors</h1></div>
-  Scientific Software Days is sponsored by the Jackson School of Geosciences, Texas Advanced Computing Center, and the Insitute for Computational Engineering and Sciences, with funding from XSEDE, the Extreme Science and Engineering Discovery Environment program.
-
+<p>Scientific Software Days is sponsored by the Jackson School of Geosciences, Texas Advanced Computing Center, and the Insitute for Computational Engineering and Sciences, with funding from XSEDE, the Extreme Science and Engineering Discovery Environment program.
+</p>
 </div>
 
 <hr />
@@ -43,10 +43,10 @@ The Seventh Annual Software Days keynote address will be given by Neil Chue Hong
 <br/><br/>
 
 
-{% if articles %}
-{% for article in articles_page.object_list %}        
-{# First item #}
-{% if loop.first and not articles_page.has_previous() %}
+% if articles %}
+% for article in articles_page.object_list %}        
+# First item #}
+% if loop.first and not articles_page.has_previous() %}
 
     <div class='article'>
         <div class="content-title">
@@ -62,8 +62,8 @@ The Seventh Annual Software Days keynote address will be given by Neil Chue Hong
         {% include 'pagination.html' %}
     {% endif %}
 
-{# other items #}
-{% else %} 
+# other items #}
+% else %} 
 
     <div class='article'>
         <a href="{{ SITEURL }}/{{ article.url }}"><h2>{{ article.title }}</h2></a>
@@ -72,14 +72,14 @@ The Seventh Annual Software Days keynote address will be given by Neil Chue Hong
     </div>	
 
 				
-    {% if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
-        {% include 'pagination.html' %}
-    {% endif %}
+    % if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
+        % include 'pagination.html' %}
+    % endif %}
 
-{% endif %} {# First item if #}
+% endif %} # First item if #}
 
-{% endfor %} {# For article #}
-{% endif %} {# If articles #}
+% endfor %} # For article #}
+% endif %} # If articles #}
 -->
 
 {% endblock content %}
