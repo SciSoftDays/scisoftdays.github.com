@@ -26,6 +26,8 @@ We are accepting submissions for SSD 2013. If you would like to participate, ple
 
 <br/><br/>
 
+<!--
+
 {% if articles %}
 {% for article in articles_page.object_list %}        
 {# First item #}
@@ -53,6 +55,7 @@ We are accepting submissions for SSD 2013. If you would like to participate, ple
         <div class= "well small"> {% include "metadata.html" %} </div>
         <div class="summary">{{ article.summary }} <a class="btn btn-info xsmall" href="{{ SITEURL }}/{{ article.url }}">read more</a></div>
     </div>	
+
 				
     {% if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
         {% include 'pagination.html' %}
@@ -62,6 +65,7 @@ We are accepting submissions for SSD 2013. If you would like to participate, ple
 
 {% endfor %} {# For article #}
 {% endif %} {# If articles #}
+-->
 
 {% endblock content %}
 
