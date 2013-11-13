@@ -10,26 +10,41 @@ Austin, TX
 December 16 - 17, 2013  
 9 AM – 5 PM  
 
+## Attending
+
+> Attendance is free of charge but seating is limited.
+>
+> Please pre-register using [this form](https://docs.google.com/forms/d/19L2ov2Nu_QMGcKbSMi1DZXuLOBfa1CDO9tK5X9KEuM4/viewform)
+
 ## Invited Speakers
 
-> Title TBA
+> *On Software Sustainability*
 >  
 >  [Neil Chue Hong](http://software.ac.uk/about/people/neil-chue-hong)  
 >  Software Sustainability Institute
 
 <br/>
 
-> Title TBA
+> *Scientific Software Production: Incentives and Collaboration*
 >  
 >  [James Howison](http://howison.name/)  
 >  The University of Texas
+
+## Tuesday Tutorials
+
+> Details to be announced
+
+* Scientific Python with NumPy and SciPy
+
+* R and Parallel R
 
 
 ## Organizers
 
 * [Victor Eijkhout](http://www.tacc.utexas.edu/staff/victor-eijkhout)
 * [Sergey Fomel](http://www.jsg.utexas.edu/researcher/sergey_fomel/)
-* [Michael Tobis](http://www.ig.utexas.edu/people/staff/tobis/)
+* [Andy Terrel](http://andy.terrel.us/)
+* [Michael Tobis](http://sites.google.com/site/mtobis/)
 
 ## Logistics
 
