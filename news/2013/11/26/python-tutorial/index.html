@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Scientific Software Days</title>
+    <meta name="description" content="">
+    <meta name="author" content="SciSoftDays Organizing Committee">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+    <script src="http://scisoftdays.org/theme/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="http://scisoftdays.org/theme/bootstrap.min.css" rel="stylesheet">
+    <link href="http://scisoftdays.org/theme/bootstrap.min.responsive.css" rel="stylesheet">
+    <link href="http://scisoftdays.org/theme/local.css" rel="stylesheet">
+    <link href="http://scisoftdays.org/theme/pygments.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="navbar">
+    <div class="navbar-inner">
+    <div class="container">
+
+         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+         </a>
+
+        <a class="brand" href="http://scisoftdays.org">Scientific Software Days</a>
+
+        <div class="nav-collapse">
+        <ul class="nav">
+            <li><a href="/">Home</a></li>
+            <li><a href="/workshops.html">Workshops</a></li>
+            <li><a href="/archives.html">News</a></li>
+            
+        </ul>
+        </div>
+        
+    </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="content">
+    <div class="row">
+
+        <div class="span9">
+    <div class='article'>
+        <div class="content-title">
+            <h1>Python tutorial</h1>
+Tue 26 November 2013
+
+by <a class="url fn" href="http://scisoftdays.org/author/michael-tobis.html">Michael Tobis <mtobis@gmail.com></a>
+ 
+
+
+        </div>
+	
+        <div><h2> Offered by Peter Wang of Continuum Analytics at Scientific Software Days, Dec 17, 2013 </h2>
+
+<p>See the <a href="http://www.scisoftdays.org">home page</a> for more details.</p>
+<h3>Description</h3>
+
+<div class="description"><p>Python has long played a role in analyzing large scale data.  From tightly-knit super-computers running MPI-based applications to heterogeneous clusters woven together with scripts, Python has had a role to play in making it easier to processes data.  This tutorial will cover the tried and true techniques as well as introduce new trends. </p></div>
+
+<h3>Abstract</h3>
+
+<div class="abstract"><h1>Outline</h1>
+<h2>Introduction</h2>
+<h2>Tools For Analysis</h2>
+<ul>
+<li>NumPy</li>
+<li>SciPy</li>
+<li>Pandas</li>
+<li>SciKit-learn</li>
+<li>Disco</li>
+<li>IPython Parallel</li>
+</ul>
+<h2>Example Problems</h2>
+<ul>
+<li>Large scale image processing</li>
+<li>Text Analysis</li>
+<li>Time-series analysis</li>
+<li>Wiki Log File Analysis</li>
+<li>Simple DNA Analysis</li>
+</ul>
+<h2>Emerging Trends in Data Analysis</h2>
+<ul>
+<li>Blaze: an open-source generalization of NumPy which maps easily onto distributed data-sets and allows distributed computations to be expressed at a high-level</li>
+<li>Bokeh: web-based visualization of distributed data sets</li>
+</ul>
+<h2>Prerequisites for the tutorial</h2>
+<p>Students should be fairly comfortable with Python and have used NumPy/SciPy in the past. Students should also come prepared with working laptops and the latest version Anaconda CE installed.</p>
+<p>This tutorial is a crash course on Python for Data Analysis.  We will explore a wide variety of domains and data types (text, images, time-series, log files, etc.) and demonstrate how Python and a number of accompanying modules can be used for effective scientific expression.  In the first half of the course we will explore common tools and design patterns for single machine compute.  Starting with NumPy and SciPy we will begin to build a foundation for scientific computation.  Next, we will explore two modules for data analysis which build upon NumPy and SciPy: Pandas and SciKit-Learn.</p>
+<p>Pandas layers a DataFrame object on top of NumPy arrays.  This enables easy spelling and manipulations of table like objects.  Pandas has been widely adopted as the Python library of choice for manipulating Time-Series data sets and as such we will demonstrate and number of common analyses using Pandas.<br/>
+</p>
+<p>We will also present a number of examples from the domain of Machine Learning. SciKit-Learn, like Pandas, is an extension of NumPy and Scipy with routines commonly found in classical Machine Learning.  Using SciKit-Learn we will develop a few common machine learning techniques and apply them to novel data sets.</p>
+<p>In the second half of the course, we introduce Python for <em>Big Data</em> Analysis and introduce two common distributed solutions: IPython Parallel and Disco.  IPython Parallel enables parallel computation to be expressed entirely in Python.  We will develop several routines for commonly used for simultaneous calculations and analysis.  Using Disco -- a Python Map Reduce framework -- we introduce the concept of Map Reduce and build up several Map Reduce scripts which can process a variety of public data sets found on Amazon’s S3.</p>
+<p>In the final 30 minutes of the course we will introduce the next-generation of open-source tools for distributed data processing that we have been developing at Continuum.  These tools enable you to map onto large distributed data and express many calculations as easily as Pandas and NumPy but allowing the data to be out-of-core and on multiple machines. </p></div></div>
+	
+        <hr>
+    	   
+        <h2>Comments</h2>
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="scisoftdays">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'scisoftdays-homepage'; 
+    var disqus_title = 'Python tutorial';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+        </div>
+        
+        <div class="span3">
+            <div class="social">
+	    <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+	    <ul class="nav nav-list">
+	      <li class="nav-header">Contact</li>
+	      <li><a href="mailto:ssd-organizers@googlegroups.com">Email organizers</a></li>
+	    </ul>
+	    </div>
+	    </div>
+
+            <div class="social">
+            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+            <ul class="nav nav-list">
+                <li class="nav-header"> 
+                Social
+                </li>
+           
+                <li><a href="https://twitter.com/scisoftdays">Twitter</a></li>
+                <li><a href="https://plus.google.com/114759765621122794742">Google+</a></li>
+            </ul>
+            </div>
+            </div>
+
+            <div class="social">
+	    <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+	    <ul class="nav nav-list">
+	      <li class="nav-header">
+		Sponsors
+	      </li>
+	      <li><a href="http://www.jsg.utexas.edu/"><img alt="Jackson School of Geosciences" src="/images/jsg-logo.jpg" /></a> <br/></li>
+	      <li><a href="http://www.tacc.utexas.edu/"><img alt="Texas Advanced Computing Center" src="/images/TACC_logo.png" /></a> <br/></li>
+	      <li><a href="http://www.ices.utexas.edu/"><img alt="Institute of Computational Engineering and Sciences" src="/images/ICES_web_logo.png" /></a><br/></li>
+	      <li><a href="https://www.xsede.org/"><img alt="XSEDE" src="/images/xsede-full-color.png" /></a></li>
+	    </ul>
+	    </div>
+	    </div>
+
+
+        </div>  
+    </div>     </div> 
+<footer>
+<br />
+<p><a href="http://scisoftdays.org">Scientific Software Days</a> &copy; SciSoftDays Organizing Committee 2012-2013</p>
+</footer>
+
+</div> <!-- /container -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-collapse.js"></script>
+<script>var _gaq=[['_setAccount','UA-34953641-1'],['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
+ 
+</body>
+</html>
