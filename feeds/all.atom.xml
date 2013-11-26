@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Scientific Software Days</title><link href="http://scisoftdays.org/" rel="alternate"></link><link href="http://scisoftdays.org/feeds/all.atom.xml" rel="self"></link><id>http://scisoftdays.org/</id><updated>2013-10-22T13:17:00-05:00</updated><entry><title>Announcing XSEDE Sponsorship</title><link href="http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/" rel="alternate"></link><updated>2013-10-22T13:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-10-22:news/2013/10/22/announcing-xsede-sponsorship/</id><summary type="html">&lt;p&gt;It's my pleasure to announce that XSEDE has become an official sponsor for
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Scientific Software Days</title><link href="http://scisoftdays.org/" rel="alternate"></link><link href="http://scisoftdays.org/feeds/all.atom.xml" rel="self"></link><id>http://scisoftdays.org/</id><updated>2013-11-26T00:00:00-06:00</updated><entry><title>Agenda</title><link href="http://scisoftdays.org/news/2013/11/26/agenda/" rel="alternate"></link><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:news/2013/11/26/agenda/</id><summary type="html">&lt;table border = "3"&gt;
+&lt;tr&gt;&lt;td&gt;MONDAY&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Keynote&lt;/td&gt;&lt;td&gt;9:00 - 9:50&lt;/td&gt;&lt;td&gt;James Howison&lt;/td&gt;&lt;td&gt;UT - Informatics&lt;/td&gt;&lt;td&gt;Scientific Software Production: Incentives and Collaboration
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 1&lt;/td&gt;&lt;td&gt;10:00-10:25&lt;/td&gt;&lt;td&gt;Niall Gaffney&lt;/td&gt;&lt;td&gt;UT - TACC&lt;/td&gt;&lt;td&gt;R in Parallel: Lessons Learned from TACC
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 2&lt;/td&gt;&lt;td&gt;10:25 - 10:50&lt;/td&gt;&lt;td&gt;J R Cary&lt;/td&gt;&lt;td&gt;University of Colorado&lt;/td&gt;&lt;td&gt;"XSimComposer: Client-server approach to High-Performance Computing Workflow"
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 3&lt;/td&gt;&lt;td&gt;11:10 - 11:35&lt;/td&gt;&lt;td&gt;Christopher Simmons&lt;/td&gt;&lt;td&gt;UT - ICES&lt;/td&gt;&lt;td&gt;Hybrid parallelization of CFOUR
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 4&lt;/td&gt;&lt;td&gt;11:35  - 12:00&lt;/td&gt;&lt;td&gt;Rathana Ananthakrishnan&lt;/td&gt;&lt;td&gt;U Chicago&lt;/td&gt;&lt;td&gt;Research Data Management-as-a-Service with Globus
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Keynote&lt;/td&gt;&lt;td&gt;1:00 - 1:50&lt;/td&gt;&lt;td&gt;Neil Chue-Hong&lt;/td&gt;&lt;td&gt;University of Edinburgh&lt;/td&gt;&lt;td&gt;Software Sustainability
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 5&lt;/td&gt;&lt;td&gt;2:00 - 2:25&lt;/td&gt;&lt;td&gt;Jennifer Seiler&lt;/td&gt;&lt;td&gt;Columbia&lt;/td&gt;&lt;td&gt;Research Compendia: Connecting Computation to Publication
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 6&lt;/td&gt;&lt;td&gt;2:25 - 2:50&lt;/td&gt;&lt;td&gt;Ken Demarest&lt;/td&gt;&lt;td&gt;Appsoma and UT&lt;/td&gt;&lt;td&gt;Appsoma - beyond workflows to reproducibility
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 7&lt;/td&gt;&lt;td&gt;2:50 - 3:15&lt;/td&gt;&lt;td&gt;Lars Keosterke&lt;/td&gt;&lt;td&gt;UT TACC&lt;/td&gt;&lt;td&gt;How to write high performing code? A few tips to get you started
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 8&lt;/td&gt;&lt;td&gt;3:25 - 3:50&lt;/td&gt;&lt;td&gt;Damon MacGougall&lt;/td&gt;&lt;td&gt;UT - ICES&lt;/td&gt;&lt;td&gt;"QUESO:  A C++ library for the Quantification of Uncertainty in Estimation Simulation and Optimization"
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 9&lt;/td&gt;&lt;td&gt;3:50 - 4:15&lt;/td&gt;&lt;td&gt;Georke Thiruvathukal;&lt;/td&gt;&lt;td&gt;Loyola University&lt;/td&gt;&lt;td&gt;Software Engineering Need Not Be Difficult
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 10&lt;/td&gt;&lt;td&gt;4:25 - 4:40&lt;/td&gt;&lt;td&gt;Ragunath Chandrsekhar&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Whetting the Performance of HPC Applications with MVAPICH2 and the MPI-T Interface
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 11&lt;/td&gt;&lt;td&gt;4:40 - 5:05&lt;/td&gt;&lt;td&gt;Jithin Jose&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Redesigning applications using Hybrid MPI and PGAS Models - Case studies using MVAPICH2-X
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 12&lt;/td&gt;&lt;td&gt;5:05 - 5:20&lt;/td&gt;&lt;td&gt;Hari Subramoni&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Utilizing the Network-topology-aware MVAPICH2 Library to Extract Maximum Performance from MPI Applications
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;combined question period&lt;/td&gt;&lt;td&gt;5:20 - 5:30&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;TUESDAY&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Tutorial 1&lt;/td&gt;&lt;td&gt;9:00 - 12:30&lt;/td&gt;&lt;td&gt;Peter Wang&lt;/td&gt;&lt;td&gt;Continuum Analytics&lt;/td&gt;&lt;td&gt;Scientific Python
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Tutorial 2&lt;/td&gt;&lt;td&gt;2:00 - 4:30&lt;/td&gt;&lt;td&gt;Yaakoub El Kahmra&lt;/td&gt;&lt;td&gt;UT - TACC&lt;/td&gt;&lt;td&gt;High Performance and High Throughput Computing with R
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary></entry><entry><title>Announcing XSEDE Sponsorship</title><link href="http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/" rel="alternate"></link><updated>2013-10-22T13:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-10-22:news/2013/10/22/announcing-xsede-sponsorship/</id><summary type="html">&lt;p&gt;It's my pleasure to announce that XSEDE has become an official sponsor for
 SciSoftDays2013!  XSEDE is a leader in providing resources for scientific
 computing and is support SciSoftDays in its mission of training scientists in
 the best software practices in our field.  &lt;/p&gt;
