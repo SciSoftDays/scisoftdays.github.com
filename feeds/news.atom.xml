@@ -5,9 +5,12 @@
 &lt;tr&gt;&lt;td&gt;Keynote&lt;/td&gt;&lt;td&gt;9:00 - 9:50&lt;/td&gt;&lt;td&gt;James Howison&lt;/td&gt;&lt;td&gt;UT - Informatics&lt;/td&gt;&lt;td&gt;Scientific Software Production: Incentives and Collaboration
 &lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Talk 1&lt;/td&gt;&lt;td&gt;10:00-10:25&lt;/td&gt;&lt;td&gt;Niall Gaffney&lt;/td&gt;&lt;td&gt;UT - TACC&lt;/td&gt;&lt;td&gt;R in Parallel: Lessons Learned from TACC
+&lt;tr&gt;&lt;td&gt;Talk 1&lt;/td&gt;
+&lt;td&gt;10:00-10:25&lt;/td&gt;
+&lt;td&gt;Damon MacGougall&lt;/td&gt;
+&lt;td&gt;UT - ICES&lt;/td&gt;&lt;td&gt;QUESO:  A C++ library for the Quantification of Uncertainty in Estimation Simulation and Optimization
 &lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Talk 2&lt;/td&gt;&lt;td&gt;10:25 - 10:50&lt;/td&gt;&lt;td&gt;J R Cary&lt;/td&gt;&lt;td&gt;University of Colorado&lt;/td&gt;&lt;td&gt;"XSimComposer: Client-server approach to High-Performance Computing Workflow"
+&lt;tr&gt;&lt;td&gt;Talk 2&lt;/td&gt;&lt;td&gt;10:25 - 10:50&lt;/td&gt;&lt;td&gt;J R Cary&lt;/td&gt;&lt;td&gt;University of Colorado&lt;/td&gt;&lt;td&gt;XSimComposer: Client-server approach to High-Performance Computing Workflow
 &lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Talk 3&lt;/td&gt;&lt;td&gt;11:10 - 11:35&lt;/td&gt;&lt;td&gt;Christopher Simmons&lt;/td&gt;&lt;td&gt;UT - ICES&lt;/td&gt;&lt;td&gt;Hybrid parallelization of CFOUR
@@ -25,7 +28,8 @@
 &lt;tr&gt;&lt;td&gt;Talk 7&lt;/td&gt;&lt;td&gt;2:50 - 3:15&lt;/td&gt;&lt;td&gt;Lars Keosterke&lt;/td&gt;&lt;td&gt;UT TACC&lt;/td&gt;&lt;td&gt;How to write high performing code? A few tips to get you started
 &lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Talk 8&lt;/td&gt;&lt;td&gt;3:25 - 3:50&lt;/td&gt;&lt;td&gt;Damon MacGougall&lt;/td&gt;&lt;td&gt;UT - ICES&lt;/td&gt;&lt;td&gt;"QUESO:  A C++ library for the Quantification of Uncertainty in Estimation Simulation and Optimization"
+&lt;tr&gt;&lt;td&gt;Talk 8&lt;/td&gt;&lt;td&gt;3:25 - 3:50&lt;/td&gt;
+&lt;td&gt;Niall Gaffney&lt;/td&gt;&lt;td&gt;UT - TACC&lt;/td&gt;&lt;td&gt;R in Parallel: Lessons Learned from TACC
 &lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Talk 9&lt;/td&gt;&lt;td&gt;3:50 - 4:15&lt;/td&gt;&lt;td&gt;Georke Thiruvathukal;&lt;/td&gt;&lt;td&gt;Loyola University&lt;/td&gt;&lt;td&gt;Software Engineering Need Not Be Difficult
 &lt;/td&gt;&lt;/tr&gt;
