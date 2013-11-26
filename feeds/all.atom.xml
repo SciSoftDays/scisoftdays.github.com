@@ -93,13 +93,13 @@
 &lt;ol&gt;
 
 &lt;li&gt; Brief (3-6 slides) introduction to TACC resources 
-&lt;/li&gt;&lt;li&gt;2) Introduction to R, hands on
-&lt;/li&gt;&lt;li&gt;3) High throughput computing with R (SNOW, launchers)
-&lt;/li&gt;&lt;li&gt;4) hands on
-&lt;/li&gt;&lt;li&gt;5) Parallel computing with R (Rmpi, pbdmpi)
-&lt;/li&gt;&lt;li&gt;6) hands on
-&lt;/li&gt;&lt;li&gt;7) Using the Xeon Phi with R
-&lt;/li&gt;&lt;li&gt;8) hands on
+&lt;/li&gt;&lt;li&gt; Introduction to R, hands on
+&lt;/li&gt;&lt;li&gt; High throughput computing with R (SNOW, launchers)
+&lt;/li&gt;&lt;li&gt; hands on
+&lt;/li&gt;&lt;li&gt; Parallel computing with R (Rmpi, pbdmpi)
+&lt;/li&gt;&lt;li&gt; hands on
+&lt;/li&gt;&lt;li&gt; Using the Xeon Phi with R
+&lt;/li&gt;&lt;li&gt; hands on
 &lt;/li&gt;&lt;/ol&gt;</summary></entry><entry><title>Announcing XSEDE Sponsorship</title><link href="http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/" rel="alternate"></link><updated>2013-10-22T13:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-10-22:news/2013/10/22/announcing-xsede-sponsorship/</id><summary type="html">&lt;p&gt;It's my pleasure to announce that XSEDE has become an official sponsor for
 SciSoftDays2013!  XSEDE is a leader in providing resources for scientific
 computing and is support SciSoftDays in its mission of training scientists in
