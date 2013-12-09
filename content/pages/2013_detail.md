@@ -13,6 +13,7 @@ December 16 - 17, 2013
 ## Attending
 
 > Attendance is free of charge but seating is limited.
+> *Currently tutorials are filled.*
 >
 > Please pre-register using [this form](https://docs.google.com/forms/d/19L2ov2Nu_QMGcKbSMi1DZXuLOBfa1CDO9tK5X9KEuM4/viewform)
 
