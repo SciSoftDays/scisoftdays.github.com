@@ -4,11 +4,17 @@ Category: workshops
 
 ## Date and Venue
 
-[ACES](http://www.aces.utexas.edu/) Room TBA  
+Monday:  [POB](http://www.utexas.edu/maps/main/buildings/pob.html) Room 2.402  
+Tuesday: [FAC](http://www.utexas.edu/maps/main/buildings/fac.html) room 101B  
 [University of Texas at Austin](http://www.utexas.edu)  
 Austin, TX  
 December 16 - 17, 2013  
 9 AM – 5 PM  
+
+
+## Agenda
+
+Please see the [Agenda](/news/2013/11/26/agenda/).
 
 ## Attending
 
