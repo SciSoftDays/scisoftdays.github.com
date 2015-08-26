@@ -4,8 +4,8 @@ Save_as: workshops.html
 
 * [Fall 2013](|filename|/pages/2013_detail.md)
 * [Fall 2012](|filename|/pages/2012_detail.md)
-* [Spring 2011](http://www.tacc.utexas.edu/softwareday)
-* Spring 2010
-* Spring 2009
-* Spring 2008
-* Spring 2007
+* [Spring 2011](|filename|/pages/2011_detail.md)
+* [Spring 2010](|filename|/pages/2010_detail.md)
+* [Spring 2009](|filename|/pages/2009_detail.md)
+* [Spring 2008](|filename|/pages/2008_detail.md)
+* [Spring 2007](|filename|/pages/2007_detail.md)
