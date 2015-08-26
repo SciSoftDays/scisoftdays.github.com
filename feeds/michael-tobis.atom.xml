@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Scientific Software Days</title><link href="http://scisoftdays.org/" rel="alternate"></link><link href="http://scisoftdays.org/feeds/michael-tobis.atom.xml" rel="self"></link><id>http://scisoftdays.org/</id><updated>2013-11-26T00:00:00-06:00</updated><entry><title>Agenda</title><link href="http://scisoftdays.org/news/2013/11/26/agenda/" rel="alternate"></link><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:news/2013/11/26/agenda/</id><summary type="html">&lt;p&gt;Monday's sessions will be in &lt;a href="http://www.utexas.edu/maps/main/buildings/pob.html"&gt;POB&lt;/a&gt; Room 2.402&lt;/p&gt;
+&lt;table border = "3"&gt;
+&lt;tr&gt;&lt;td&gt;MONDAY&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Keynote&lt;/td&gt;&lt;td&gt;9:00 - 9:50&lt;/td&gt;&lt;td&gt;James Howison&lt;/td&gt;&lt;td&gt;UT - Informatics&lt;/td&gt;&lt;td&gt;Scientific Software Production: Incentives and Collaboration
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 1&lt;/td&gt;
+&lt;td&gt;10:00-10:25&lt;/td&gt;
+&lt;td&gt;Damon McDougall&lt;/td&gt;
+&lt;td&gt;UT - ICES&lt;/td&gt;&lt;td&gt;QUESO:  A C++ library for the Quantification of Uncertainty in Estimation Simulation and Optimization
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 2&lt;/td&gt;&lt;td&gt;10:25 - 10:50&lt;/td&gt;&lt;td&gt;J R Cary&lt;/td&gt;&lt;td&gt;University of Colorado&lt;/td&gt;&lt;td&gt;XSimComposer: Client-server approach to High-Performance Computing Workflow
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 3&lt;/td&gt;&lt;td&gt;11:10 - 11:35&lt;/td&gt;&lt;td&gt;Christopher Simmons&lt;/td&gt;&lt;td&gt;UT - ICES&lt;/td&gt;&lt;td&gt;Hybrid parallelization of CFOUR
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 4&lt;/td&gt;&lt;td&gt;11:35  - 12:00&lt;/td&gt;&lt;td&gt;Rathana Ananthakrishnan&lt;/td&gt;&lt;td&gt;U Chicago&lt;/td&gt;&lt;td&gt;Research Data Management-as-a-Service with Globus
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Keynote&lt;/td&gt;&lt;td&gt;1:00 - 1:50&lt;/td&gt;&lt;td&gt;Neil Chue-Hong&lt;/td&gt;&lt;td&gt;Software Sustainability Institute&lt;/td&gt;&lt;td&gt;Putting the User Back into Software Sustainability
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 5&lt;/td&gt;&lt;td&gt;2:00 - 2:25&lt;/td&gt;&lt;td&gt;Jennifer Seiler&lt;/td&gt;&lt;td&gt;Columbia&lt;/td&gt;&lt;td&gt;Research Compendia: Connecting Computation to Publication
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 6&lt;/td&gt;&lt;td&gt;2:25 - 2:50&lt;/td&gt;&lt;td&gt;Ken Demarest&lt;/td&gt;&lt;td&gt;Appsoma and UT&lt;/td&gt;&lt;td&gt;Appsoma - beyond workflows to reproducibility
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 7&lt;/td&gt;&lt;td&gt;2:50 - 3:15&lt;/td&gt;&lt;td&gt;Lars Koesterke&lt;/td&gt;&lt;td&gt;UT TACC&lt;/td&gt;&lt;td&gt;How to write high performing code? A few tips to get you started
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 8&lt;/td&gt;&lt;td&gt;3:25 - 3:50&lt;/td&gt;
+&lt;td&gt;Niall Gaffney&lt;/td&gt;&lt;td&gt;UT - TACC&lt;/td&gt;&lt;td&gt;R in Parallel: Lessons Learned from TACC
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 9&lt;/td&gt;&lt;td&gt;3:50 - 4:15&lt;/td&gt;&lt;td&gt;Tal Yarkoni&lt;/td&gt;&lt;td&gt;UT - Psychology&lt;/td&gt;&lt;td&gt; Doing it (Almost) All in Python, or How I Learned to Stop Worrying and Love the import Statement
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 10&lt;/td&gt;&lt;td&gt;4:25 - 4:45&lt;/td&gt;&lt;td&gt;Raghunath Raja
+Chandrasekar&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Whetting the Performance of HPC Applications with MVAPICH2 and the MPI-T Interface
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 11&lt;/td&gt;&lt;td&gt;4:45 - 5:05&lt;/td&gt;&lt;td&gt;Jithin Jose&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Redesigning applications using Hybrid MPI and PGAS Models - Case studies using MVAPICH2-X
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Talk 12&lt;/td&gt;&lt;td&gt;5:05 - 5:25&lt;/td&gt;&lt;td&gt;Raghunath Raja
+Chandrasekar&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Utilizing the Network-topology-aware MVAPICH2 Library to Extract Maximum Performance from MPI Applications
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;combined question period&lt;/td&gt;&lt;td&gt;5:25 - 5:30&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Tuesday's tutorials will be in &lt;a href="http://www.utexas.edu/maps/main/buildings/fac.html"&gt;FAC&lt;/a&gt; room 101B&lt;/p&gt;
+&lt;table border = "3"&gt;
+&lt;tr&gt;&lt;td&gt;TUESDAY&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Tutorial 1&lt;/td&gt;&lt;td&gt;9:00 - 12:30&lt;/td&gt;&lt;td&gt;Peter Wang&lt;/td&gt;&lt;td&gt;Continuum Analytics&lt;/td&gt;&lt;td&gt;Scientific Python
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Tutorial 2&lt;/td&gt;&lt;td&gt;2:00 - 4:30&lt;/td&gt;&lt;td&gt;Yaakoub El Khamra&lt;/td&gt;&lt;td&gt;UT - TACC&lt;/td&gt;&lt;td&gt;High Performance and High Throughput Computing with R
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary></entry><entry><title>Python tutorial</title><link href="http://scisoftdays.org/news/2013/11/26/python-tutorial/" rel="alternate"></link><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:news/2013/11/26/python-tutorial/</id><summary type="html">&lt;h2&gt; Offered by Peter Wang of Continuum Analytics at Scientific Software Days, Dec 17, 2013 &lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href="http://www.scisoftdays.org"&gt;home page&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;
+
+&lt;div class="description"&gt;&lt;p&gt;Python has long played a role in analyzing large scale data.  From tightly-knit super-computers running MPI-based applications to heterogeneous clusters woven together with scripts, Python has had a role to play in making it easier to processes data.  This tutorial will cover the tried and true techniques as well as introduce new trends. &lt;/p&gt;&lt;/div&gt;
+
+&lt;h3&gt;Abstract&lt;/h3&gt;
+
+&lt;div class="abstract"&gt;&lt;h1&gt;Outline&lt;/h1&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;h2&gt;Tools For Analysis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NumPy&lt;/li&gt;
+&lt;li&gt;SciPy&lt;/li&gt;
+&lt;li&gt;Pandas&lt;/li&gt;
+&lt;li&gt;SciKit-learn&lt;/li&gt;
+&lt;li&gt;Disco&lt;/li&gt;
+&lt;li&gt;IPython Parallel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Example Problems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Large scale image processing&lt;/li&gt;
+&lt;li&gt;Text Analysis&lt;/li&gt;
+&lt;li&gt;Time-series analysis&lt;/li&gt;
+&lt;li&gt;Wiki Log File Analysis&lt;/li&gt;
+&lt;li&gt;Simple DNA Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Emerging Trends in Data Analysis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Blaze: an open-source generalization of NumPy which maps easily onto distributed data-sets and allows distributed computations to be expressed at a high-level&lt;/li&gt;
+&lt;li&gt;Bokeh: web-based visualization of distributed data sets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Prerequisites for the tutorial&lt;/h2&gt;
+&lt;p&gt;Students should be fairly comfortable with Python and have used NumPy/SciPy in the past. Students should also come prepared with working laptops and the latest version Anaconda CE installed.&lt;/p&gt;
+&lt;p&gt;This tutorial is a crash course on Python for Data Analysis.  We will explore a wide variety of domains and data types (text, images, time-series, log files, etc.) and demonstrate how Python and a number of accompanying modules can be used for effective scientific expression.  In the first half of the course we will explore common tools and design patterns for single machine compute.  Starting with NumPy and SciPy we will begin to build a foundation for scientific computation.  Next, we will explore two modules for data analysis which build upon NumPy and SciPy: Pandas and SciKit-Learn.&lt;/p&gt;
+&lt;p&gt;Pandas layers a DataFrame object on top of NumPy arrays.  This enables easy spelling and manipulations of table like objects.  Pandas has been widely adopted as the Python library of choice for manipulating Time-Series data sets and as such we will demonstrate and number of common analyses using Pandas.&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;We will also present a number of examples from the domain of Machine Learning. SciKit-Learn, like Pandas, is an extension of NumPy and Scipy with routines commonly found in classical Machine Learning.  Using SciKit-Learn we will develop a few common machine learning techniques and apply them to novel data sets.&lt;/p&gt;
+&lt;p&gt;In the second half of the course, we introduce Python for &lt;em&gt;Big Data&lt;/em&gt; Analysis and introduce two common distributed solutions: IPython Parallel and Disco.  IPython Parallel enables parallel computation to be expressed entirely in Python.  We will develop several routines for commonly used for simultaneous calculations and analysis.  Using Disco -- a Python Map Reduce framework -- we introduce the concept of Map Reduce and build up several Map Reduce scripts which can process a variety of public data sets found on Amazon’s S3.&lt;/p&gt;
+&lt;p&gt;In the final 30 minutes of the course we will introduce the next-generation of open-source tools for distributed data processing that we have been developing at Continuum.  These tools enable you to map onto large distributed data and express many calculations as easily as Pandas and NumPy but allowing the data to be out-of-core and on multiple machines. &lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>R tutorial</title><link href="http://scisoftdays.org/news/2013/11/26/r-tutorial/" rel="alternate"></link><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:news/2013/11/26/r-tutorial/</id><summary type="html">&lt;h2&gt; Offered by Yaakoub El Khamra at Scientific Software Days, Dec 17, 2013 &lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href="http://www.scisoftdays.org"&gt;home page&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;R is a language and environment for statistical computing and graphics. R provides a large number of statistical tools and is highly extensible. We will cover the basics of R and focus on the R extensions that enable high throughput and parallel computing with R. Specifically, we will focus on how to use these extensions (and other performance improvement tools) on TACC supercomputers. &lt;/p&gt;
+&lt;ol&gt;
+
+&lt;li&gt; Brief (3-6 slides) introduction to TACC resources 
+&lt;/li&gt;&lt;li&gt; Introduction to R, hands on
+&lt;/li&gt;&lt;li&gt; High throughput computing with R (SNOW, launchers)
+&lt;/li&gt;&lt;li&gt; hands on
+&lt;/li&gt;&lt;li&gt; Parallel computing with R (Rmpi, pbdmpi)
+&lt;/li&gt;&lt;li&gt; hands on
+&lt;/li&gt;&lt;li&gt; Using the Xeon Phi with R
+&lt;/li&gt;&lt;li&gt; hands on
+&lt;/li&gt;&lt;/ol&gt;</summary></entry></feed>
