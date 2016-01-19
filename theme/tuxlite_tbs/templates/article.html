@@ -1,16 +1,16 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class='article'>
-        <div class="content-title">
-            <h1>{{ article.title }}</h1>
-            {% include "metadata.html" %}
+    <div class='panel panel-default'>
+        <div class='panel-heading'>
+          <h2><strong>{{ article.title }}</strong></h1>
+          {% include "metadata.html" %}
         </div>
 	
-        <div>{{ article.content }}</div>
+        <div class='panel-body'>{{ article.content }}</div>
 	
         <hr>
     	   
-        <h2>Comments</h2>
+        <h3>Comments</h3>
 	{% include "twitter.html" %}
 	{% include 'disqus.html' %}
     </div>

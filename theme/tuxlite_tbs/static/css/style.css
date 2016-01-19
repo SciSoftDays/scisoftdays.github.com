@@ -1,0 +1,35 @@
+
+.jumbotron {
+  padding-bottom: 0;
+  margin-bottom: 10px;
+  background: #000 url('../images/AustinSkyline.jpg') no-repeat center top;
+  width:100%;
+  background-size:100%;
+  text-shadow: 1px 1px 1px #000;
+}
+@media screen and (min-width: 500px) {
+  .jumbotron {
+    padding-bottom: 0;
+    background: #000 url('../images/AustinSkyline.jpg') no-repeat center bottom;
+    width:100%;
+    background-size:100%;
+    text-shadow: 1px 1px 1px #000;
+  }
+}
+.cc-attribution {
+  font-size: 8pt;
+  color: #999;
+}
+a.cc-attribution:hover,
+a.cc-attribution:focus {
+  color: #999;
+}
+.btn-primary:hover {
+  color: #ff6;
+  background-color: #026;
+}
+.btn-primary:active,
+.btn-primary:focus {
+  color: #ff6;
+  background-color: #f98;
+}

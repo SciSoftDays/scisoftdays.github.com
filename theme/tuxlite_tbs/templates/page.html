@@ -2,7 +2,8 @@
 {% block title %} {% endblock %}
 {% block content %}        
 <section id="content" class="body">    
-    <h2 class="content-title">
+  <div class='panel panel-default'>
+    <div class='panel-heading'><h2><strong>
         {{ page.title }}
         {% if page.translations %}
             <a href="{{ SITEURL }}/{{ page.url }}" class="btn btn-info xsmall">{{ page.lang or DEFAULT_LANG }}</a>
@@ -10,9 +11,11 @@
                 <a href="{{ SITEURL }}/{{ translation.url }}" class="btn btn-info xsmall">{{ translation.lang }}</a>&nbsp;
             {% endfor %}
         {% endif %}
-    </h2>
-    {% if PDF_PROCESSOR %}<a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">get
-    the pdf</a>{% endif %}
-    {{ page.content }}
+    </strong></h2></div>
+    <div class='panel-body'>
+      {% if PDF_PROCESSOR %}<a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">get
+      the pdf</a>{% endif %}
+      {{ page.content }}
+    </div>
 </section>
 {% endblock %}

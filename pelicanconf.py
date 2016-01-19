@@ -21,9 +21,15 @@ ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Title menu options
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = [('Home', '/'),
-             ('Workshops', '/workshops.html'),
-             ('News', '/archives.html')]
+MENUITEMS = [('News', '/archives.html'),
+             ('Past Conferences', '/past.html')]
+HOMETARGETS = [('About', '#About'),
+               ('Keynote Speakers', '#Keynotes'),
+               ('Speakers', '#Speakers'),
+               ('Registration', '#Registration'),
+               ('Poster Session', '#Posters'),
+               ('Location', '#Location'),
+              ]
              
 NEWEST_FIRST_ARCHIVES = False
 
@@ -45,9 +51,9 @@ TRANSLATION_FEED_ATOM = None
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/scisoftdays'),
-          ('Google+', 'https://plus.google.com/114759765621122794742'),
-          )
+#SOCIAL = (('Twitter', 'https://twitter.com/scisoftdays'),
+#          ('Google+', 'https://plus.google.com/114759765621122794742'),
+#          )
 #          ('Another social link', '#'),)
 DISQUS_SITENAME = "scisoftdays-homepage"
 TWITTER_USERNAME = "scisoftdays"

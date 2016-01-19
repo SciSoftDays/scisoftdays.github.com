@@ -1,6 +1,6 @@
-Title: Workshops
-URL: workshops.html
-Save_as: workshops.html
+Title: Past Conferences
+URL: past.html
+Save_as: past.html
 
 * [Fall 2013](|filename|/pages/2013_detail.md)
 * [Fall 2012](|filename|/pages/2012_detail.md)
