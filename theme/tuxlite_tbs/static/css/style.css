@@ -7,6 +7,14 @@
   background-size:100%;
   text-shadow: 1px 1px 1px #000;
 }
+.portrait {
+  text-align: right;
+}
+@media screen and (max-width: 767px) {
+  .portrait {
+    text-align: left;
+  }
+}
 @media screen and (min-width: 500px) {
   .jumbotron {
     padding-bottom: 0;
@@ -23,13 +31,4 @@
 a.cc-attribution:hover,
 a.cc-attribution:focus {
   color: #999;
-}
-.btn-primary:hover {
-  color: #ff6;
-  background-color: #026;
-}
-.btn-primary:active,
-.btn-primary:focus {
-  color: #ff6;
-  background-color: #f98;
 }
