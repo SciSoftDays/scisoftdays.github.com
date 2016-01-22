@@ -7,54 +7,62 @@
     <meta name="author" content="SciSoftDays Organizing Committee">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-    <script src="http://scisoftdays.org/theme/html5.js"></script>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
     <!-- Le styles -->
     <link href="http://scisoftdays.org/theme/bootstrap.min.css" rel="stylesheet">
-    <link href="http://scisoftdays.org/theme/bootstrap.min.responsive.css" rel="stylesheet">
-    <link href="http://scisoftdays.org/theme/local.css" rel="stylesheet">
-    <link href="http://scisoftdays.org/theme/pygments.css" rel="stylesheet">
+    <link href="http://scisoftdays.org/theme/css/style.css" rel="stylesheet">
+    <!--<link href="http://scisoftdays.org/theme/local.css" rel="stylesheet">-->
+    <!--<link href="http://scisoftdays.org/theme/pygments.css" rel="stylesheet">-->
 
 </head>
 
 <body>
 
-<div class="navbar">
-    <div class="navbar-inner">
-    <div class="container">
-
-         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-             <span class="icon-bar"></span>
-             <span class="icon-bar"></span>
-             <span class="icon-bar"></span>
-         </a>
-
-        <a class="brand" href="http://scisoftdays.org">Scientific Software Days</a>
-
-        <div class="nav-collapse">
-        <ul class="nav">
-            <li><a href="/">Home</a></li>
-            <li><a href="/workshops.html">Workshops</a></li>
-            <li><a href="/archives.html">News</a></li>
-            
+  <!-- static navbar -->
+  <div class="navbar navbar-default" role="navigation">
+    <div class="container fill-wrapper">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="http://scisoftdays.org/">Scientific Software Days</a>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="/index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/#About">About</a></li>
+              <li><a href="/#Keynotes">Keynote Speakers</a></li>
+              <li><a href="/#Speakers">Speakers</a></li>
+              <li><a href="/#Registration">Registration</a></li>
+              <li><a href="/#Posters">Poster Session</a></li>
+              <li><a href="/#Location">Location</a></li>
+            </ul>
+          </li>
+              <li><a href="/archives.html">News</a></li>
+              <li><a href="/past.html">Past Conferences</a></li>
+              
         </ul>
-        </div>
-        
+      </div>
     </div>
-    </div>
-</div>
+  </div>
 
+<div class="container-fluid"><p></p></div>
 <div class="container">
-    <div class="content">
-    <div class="row">
-
-        <div class="span9">
-    <div class='article'>
-        <div class="content-title">
-            <h1>SSD2012 schedule up</h1>
+  <div class="row">
+    <div class="col-md-9">
+    <div class='panel panel-default'>
+        <div class='panel-heading'>
+          <h2><strong>SSD2012 schedule up</strong></h1>
 Wed 28 November 2012
 
 by <a class="url fn" href="http://scisoftdays.org/author/andy-r-terrel.html">Andy R. Terrel <andy.terrel@gmail.com></a>
@@ -63,7 +71,7 @@ by <a class="url fn" href="http://scisoftdays.org/author/andy-r-terrel.html">And
 
         </div>
 	
-        <div><p>I'm excited to announce the 2012 Scientific Software Days <a href="/pages/2012_details.html#schedule">schedule</a> is official
+        <div class='panel-body'><p>I'm excited to announce the 2012 Scientific Software Days <a href="/pages/2012_details.html#schedule">schedule</a> is official
 posted.  This year we have a range of core technology talks, open science
 talks, and software in applications talks.  In what may be a first for SSD, we
 have two speakers from medical schools, a growing segment in scientific
@@ -73,7 +81,7 @@ you have any questions feel free to email us at softwareday@tacc.utexas.edu.</p>
 	
         <hr>
     	   
-        <h2>Comments</h2>
+        <h3>Comments</h3>
 <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="scisoftdays">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -88,32 +96,16 @@ you have any questions feel free to email us at softwareday@tacc.utexas.edu.</p>
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     </div>
-        </div>
+    </div>
         
-        <div class="span3">
-            <div class="social">
-	    <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
-	    <ul class="nav nav-list">
-	      <li class="nav-header">Contact</li>
-	      <li><a href="mailto:ssd-organizers@googlegroups.com">Email organizers</a></li>
-	    </ul>
-	    </div>
-	    </div>
+    <div class="col-md-3">
+      <div class='panel panel-default'>
+        <div class='panel-heading'><h3><strong>Contact</strong></h3></div>
+        <div class='panel-body'>
+          <a href="mailto:ssd-organizers@googlegroups.com">Email organizers</a>
+        </div>
+      </div>
 
-              <!--
-            <div class="social">
-            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
-            <ul class="nav nav-list">
-                <li class="nav-header"> 
-                Social
-                </li>
-           
-                <li><a href="https://twitter.com/scisoftdays">Twitter</a></li>
-                <li><a href="https://plus.google.com/114759765621122794742">Google+</a></li>
-            </ul>
-            </div>
-            </div>
-                -->
 
               <!--
             <div class="social">
@@ -132,16 +124,16 @@ you have any questions feel free to email us at softwareday@tacc.utexas.edu.</p>
               -->
 
 
-        </div>  
-    </div>     </div> 
-<footer>
-<br />
-<p><a href="http://scisoftdays.org">Scientific Software Days</a> &copy; SciSoftDays Organizing Committee 2015&ndash;2016</p>
-</footer>
+    </div>  
+  </div> 
+  <footer>
+    <br />
+    <p><a href="http://scisoftdays.org">Scientific Software Days</a> &copy; SciSoftDays Organizing Committee 2015&ndash;2016</p>
+  </footer>
 
 </div> <!-- /container -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-collapse.js"></script>
+<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="http://scisoftdays.org/theme/bootstrap.min.js"></script>
 <script>var _gaq=[['_setAccount','UA-34953641-1'],['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
  
 </body>

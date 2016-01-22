@@ -7,167 +7,404 @@
     <meta name="author" content="SciSoftDays Organizing Committee">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-    <script src="http://scisoftdays.org/theme/html5.js"></script>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
     <!-- Le styles -->
     <link href="http://scisoftdays.org/theme/bootstrap.min.css" rel="stylesheet">
-    <link href="http://scisoftdays.org/theme/bootstrap.min.responsive.css" rel="stylesheet">
-    <link href="http://scisoftdays.org/theme/local.css" rel="stylesheet">
-    <link href="http://scisoftdays.org/theme/pygments.css" rel="stylesheet">
+    <link href="http://scisoftdays.org/theme/css/style.css" rel="stylesheet">
+    <!--<link href="http://scisoftdays.org/theme/local.css" rel="stylesheet">-->
+    <!--<link href="http://scisoftdays.org/theme/pygments.css" rel="stylesheet">-->
 
 </head>
 
 <body>
 
-<div class="navbar">
-    <div class="navbar-inner">
-    <div class="container">
-
-         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-             <span class="icon-bar"></span>
-             <span class="icon-bar"></span>
-             <span class="icon-bar"></span>
-         </a>
-
-        <a class="brand" href="http://scisoftdays.org">Scientific Software Days</a>
-
-        <div class="nav-collapse">
-        <ul class="nav">
-            <li><a href="/">Home</a></li>
-            <li><a href="/workshops.html">Workshops</a></li>
-            <li><a href="/archives.html">News</a></li>
-            
+  <!-- static navbar -->
+  <div class="navbar navbar-default" role="navigation">
+    <div class="container fill-wrapper">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="http://scisoftdays.org/">Scientific Software Days</a>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="/index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/#About">About</a></li>
+              <li><a href="/#Keynotes">Keynote Speakers</a></li>
+              <li><a href="/#Speakers">Speakers</a></li>
+              <li><a href="/#Registration">Registration</a></li>
+              <li><a href="/#Posters">Poster Session</a></li>
+              <li><a href="/#Location">Location</a></li>
+            </ul>
+          </li>
+              <li><a href="/archives.html">News</a></li>
+              <li><a href="/past.html">Past Conferences</a></li>
+              
         </ul>
-        </div>
-        
+      </div>
     </div>
-    </div>
+  </div>
+
+<div class='jumbotron'>
+  <center>
+    <h2>The 7th Annual</h2>
+    <h1><strong>Scientific Software Days Conference</strong></h1>
+    <h2>Austin, Texas</h2>
+    <h2>February 25&ndash;26, 2016</h1>
+  </center>
+  <div class="cc-attribution" align="right">
+    "<a target="_blank" class="cc-attribution" href="https://www.flickr.com/photos/whiskeytango/4031383480">Austin Skyline</a>,"
+    <a target="_blank" class="cc-attribution" href="https://www.flickr.com/photos/whiskeytango/">Bruce Turner</a>
+    (<a target="_blank" class="cc-attribution" href="https://creativecommons.org/licenses/by/2.0/">CC by 2.0</a>)
+  </div>
 </div>
 
 <div class="container">
-    <div class="content">
-    <div class="row">
-
-        <div class="span9">
+  <div class="row">
+    <div class="col-md-9">
         
 
-<div class='article'>
-<center>
-<h1>Join us in Austin, February 25&ndash;26, 2016</h1>
-<h1>for the 7th Annual Scientific Software Days Conference</h1>
-</center>
+<div class='panel panel-default'>
+  <div class='panel-heading' id='About'><h2><strong>About</strong></h2></div>
+  <div class='panel-body'>
+    <p>
+      Scientific Software Days (SSD) is a successful regional conference that has been
+      held for seven years running at the University of Texas, Austin. This year we
+      are seeking to expand the impact of the conference to a national scale.   The
+      target audience are users and developers of scientific software, and the goals
+      of the conference are two fold:
+    </p>
+    <ol>
+      <li>
+        Share best practices among scientific software communities.
+      <li>
+        Share the latest tools and technology relevant to scientific software.
+    </ol>
+    <p>
+      Past keynotes speakers include Greg Wilson (2008), Victoria Stodden (2009),
+      Steve Easterbrook (2010), Fernando Perez (2011), Will Schroeder (2012), Neil
+      Chue Hong (2013).
+    </p>
+  </div>
 </div>
 
-<center><img src="images/austin.jpg"> </center> 
+<div class='panel panel-default'>
+  <div class='panel-heading' id='Keynotes'><h2><strong>Keynote Speakers</strong></h1></div>
+  <div class='panel-body'>
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-5 col-md-4 col-lg-3 portrait'>
+        <a target='_blank' href='http://www.cs.utexas.edu/users/rvdg/'>
+          <img src='/images/RobertvandeGeijn.jpg' alt='Robert van de Geijn'>
+        </a>
+      </div>
+      <div class='col-sm-7 col-md-8 col-lg-9'>
+        <h3>
+          <strong>
+            <a target='_blank' href='http://www.cs.utexas.edu/users/rvdg/'>Robert van de Geijn</a>
+            <small>University of Texas at Austin</small>
+          </strong>
+        </h3>
 
-<div class='article'>
-  <div class="content-title"><h1>About</h1></div>
-<p>   
-Scientific Software Days (SSD) is a successful regional conference that has been
-held for seven years running at the University of Texas, Austin. This year we
-are seeking to expand the impact of the conference to a national scale.   The
-target audience are users and developers of scientific software, and the goals
-of the conference are two fold:     1) Share best practices among scientific
-software communities.    2) Share the latest tools and technology relevant to
-scientific software.
-</p>
-<p>
-Past keynotes speakers include Greg Wilson (2008), Victoria Stodden (2009),
-Steve Easterbrook (2010),  Fernando Perez (2011), Will Schroeder (2012), Neil
-Chue Hong (2013).
-</p>
-</div>
-<div class='article'>
-  <div class="content-title"><h1>Keynote Speakers</h1></div>
+        <p><h4><i>
+          &ldquo;Building Open Source Software Infrastructure: Lessons from BLIS/libflame&rdquo;
+        </i></h4>
 
-  <dl>
-    <dt></dt>
-    <dd>
-    <a href="http://www.cs.utexas.edu/users/rvdg/">Robert van de Geijn</a>, UT Austin:
-    <i>Building Open Source Software Infrastructure: Lessons from BLIS/libflame</i>
-    </dd>
+        <ul>
+          <li>Professor, Department of Computer Sciences and Institute for Computational Engineering and Sciences</li>
+          <li>Ph.D. in Applied Mathematics, University of Maryland, College Park</li>
+          <li>B.S. in Mathematics and Computer Science, University of Wisconsin-Madison</li>
+        </ul>
+      </div>
+    </div>
 
-    <dt></dt>
-    <dd>
-    <a href="https://plus.google.com/+MarkHoemmen/posts">Mark Hoemmen</a>, Sandia National Labs
-    </dd>
-  </dl>
-</div>
+    <div class='row'>
+      <div class='col-sm-5 col-md-4 col-lg-3 portrait'>
+        <a target='_blank' href='https://plus.google.com/+MarkHoemmen/posts'>
+          <img src='/images/MarkHoemmen.jpg' alt='Mark Hoemmen'>
+        </a>
+      </div>
+      <div class='col-sm-7 col-md-8 col-lg-9'>
+        <h3>
+          <strong>
+            <a target='_blank' href='https://plus.google.com/+MarkHoemmen/posts'>Mark Hoemmen</a>
+            <small>Sandia National Laboratories</small>
+          </strong>
+        </h3>
 
-<div class='article'>
-  <div class="content-title"><h2>Confirmed Speakers</h2></div>
+        <p><h4><i>
+          &ldquo;Thread parallelism in Trilinos' sparse linear algebra interfaces and linear solvers&rdquo;
+        </i></h4>
 
-  <dl>
-    <dt></dt>
-    <dd>
-    <a href="http://www.sandia.gov/~briadam/index.html">Brian Adams</a>, Sandia National Labs:
-    <i>Dakota: Benefits and Challenges of Lab-developed Open Source Scientific Software</i>
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="https://jedbrown.org">Jed Brown</a>, CU Boulder
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="http://faculty.cse.tamu.edu/davis/welcome.html">Tim Davis</a>, Texas A&amp;M
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="http://iaindunning.com">Iain Dunning</a>, MIT:
-    <i>JuliaOpt: Optimization-related Projects in Julia</i>
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="http://pages.tacc.utexas.edu/~eijkhout/">Victor Eijkhout</a>, TACC:
-    <i>User Support Software Development at a Large Computing Center</i>
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="http://jeffhammond.github.io/">Jeff Hammond</a>, Intel:
-    <i>MPI: As Easy as 2, 3, 4 (Why Most of What You Think You Know About MPI is Wrong)</i>
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="http://james.howison.name/">James Howison</a>, UT Austin:
-    <i>Sustainability in Scientific Software: Ecosystem Context and Science Policy</i>
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="http://fperez.org">Fernando Perez</a>, UC Berkeley:
-    <i>The Architecture of Jupyter: Interactive by Design</i>
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="http://www.kitware.com/company/team/quammen.html">Cory Quammen</a>, Kitware:
-    <i>Parallel Data Analysis and Visualization with ParaView 5</i>
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="http://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>, U. Chicago:
-    <i>50 Years of Scientific Computing: from Floating Point to Integers</i>
-    </dd>
-
-    <dt></dt>
-    <dd>
-    <a href="https://scholar.google.com/citations?user=XcurJI0AAAAJ">Roy Stogner</a>, UT Austin
-    </dd>
-  </dl>
+        <ul>
+          <li>Senior Computational Scientist</li>
+          <li>Ph.D. in Computer Science, University of California, Berkeley</li>
+          <li>B.S. in Mathematics and Computer Science, University of Illinois Urbana-Champaign</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div class='article'>
-  <div class="content-title"><h2>Poster Session: Register Now!</h2></div>
+<div class='panel panel-default'>
+  <div class='panel-heading' id='Speakers'><h2><strong>Speakers</strong></h2></div>
+  <div class='panel-body'>
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href='http://www.sandia.gov/~briadam/index.html'>
+          <img  src='/images/BrianAdams.jpg' alt='Brian Adams'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://www.sandia.gov/~briadam/index.html">Brian Adams</a>
+          <small>Sandia National Laboratories</small>
+        </strong></h4>
+
+        <p><h5><i>
+          &ldquo;Dakota: Benefits and Challenges of Lab-developed Open Source Scientific Software&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="https://jedbrown.org">
+          <img  src='/images/JedBrown.jpg' alt='Jed Brown'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="https://jedbrown.org">Jed Brown</a>
+          <small>University of Colorado Boulder</small>
+        </strong></h4>
+
+        <p><h5><i>
+          &ldquo;PETSc: Technical and Social Aspects of Library Development&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="http://faculty.cse.tamu.edu/davis/welcome.html">
+          <img  src='/images/TimDavis.jpg' alt='Tim Davis'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://faculty.cse.tamu.edu/davis/welcome.html">Tim Davis</a>
+          <small>Texas A&amp;M University</small>
+        </strong></h4>
+
+        <p>
+        <h5><i>
+          &ldquo;Sparse Direct Methods: Combinatorics, Numerics, and Software&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="http://iaindunning.com">
+          <img  src='/images/IainDunning.jpg' alt='Iain Dunning'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://iaindunning.com">Iain Dunning</a>
+          <small>Massachusetts Institute of Technology</small>
+        </strong></h4>
+
+        <p>
+        <h5><i>
+          &ldquo;JuliaOpt: Optimization-related Projects in Julia&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="http://pages.tacc.utexas.edu/~eijkhout/">
+          <img  src='/images/VictorEijkhout.jpg' alt='Victor Eijkhout'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://pages.tacc.utexas.edu/~eijkhout/">Victor Eijkhout</a>
+          <small>Texas Advanced Computing Center</small>
+        </strong></h4>
+
+        <p>
+        <h5><i>
+          &ldquo;User Support Software Development at a Large Computing Center&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="http://jeffhammond.github.io/">
+          <img  src='/images/JeffHammond.jpg' alt='Jeff Hammond'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://jeffhammond.github.io/">Jeff Hammond</a>
+          <small>Intel</small>
+        </strong></h4>
+
+        <p>
+        <h5><i>
+          &ldquo;MPI: As Easy as 2, 3, 4 (Why Most of What You Think You Know About MPI is Wrong)&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="http://james.howison.name/">
+          <img  src='/images/JamesHowison.jpg' alt='James Howison'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://james.howison.name/">James Howison</a>
+          <small>University of Texas at Austin</small>
+        </strong></h4>
+
+          <p>
+          <h5><i>
+            &ldquo;Sustainability in Scientific Software: Ecosystem Context and Science Policy&rdquo;
+          </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="http://fperez.org">
+          <img  src='/images/FernandoPerez.jpg' alt='Fernando Perez'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://fperez.org">Fernando Perez</a>
+          <small>University of California Berkeley</small>
+        </strong></h4>
+
+        <p>
+        <h5><i>
+          &ldquo;The Architecture of Jupyter: Interactive by Design&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="http://www.kitware.com/company/team/quammen.html">
+          <img  src='/images/CoryQuammen.jpg' alt='Cory Quammen'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://www.kitware.com/company/team/quammen.html">Cory Quammen</a>
+          <small>Kitware</small>
+        </strong></h4>
+
+        <p>
+        <h5><i>
+          &ldquo;Parallel Data Analysis and Visualization with ParaView 5&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row' style='margin-bottom: 10px;'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="http://people.cs.uchicago.edu/~ridg/">
+          <img  src='/images/RidgwayScott.jpg' alt='Ridgway Scott'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="http://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>
+          <small>University of Chicago</small>
+        </strong></h4>
+
+        <p>
+        <h5><i>
+          &ldquo;50 Years of Scientific Computing: from Floating Point to Integers&rdquo;
+        </i></h5>
+      </div>
+    </div>
+
+    <div class='row'>
+      <div class='col-sm-3 col-md-3 col-lg-3 portrait'>
+        <a target='_blank' href="https://scholar.google.com/citations?user=XcurJI0AAAAJ">
+          <img  src='/images/RoyStogner.jpg' alt='Roy Stogner'>
+        </a>
+      </div>
+      <div class='col-sm-9 col-md-9 col-lg-9'>
+        <h4><strong>
+          <a target='_blank' href="https://scholar.google.com/citations?user=XcurJI0AAAAJ">Roy Stogner</a>
+          <small>University of Texas at Austin</small>
+        </strong></h4>
+
+        <p>
+        <h5><i>
+          &ldquo;PDE Discretization and Analysis with libMesh&rdquo;
+        </i></h5>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='panel panel-default'>
+  <div class='panel-heading' id='Registration'><h2><strong>Registration</strong></h2></div>
+  <div class='panel-body'>
+    <p>
+      Conference registration is done through Eventbrite.  Click the 'Register'
+      button and you can then select what type of registration (student vs.
+      non-student) to purchase.
+    </p>
+    <ul>
+      <li>
+        If you register as a student, please remember to bring valid student ID
+        with you to the event.
+      </li>
+      <li>
+        Refunds will be allowed up until two weeks before the event.
+      </li>
+      <li>
+        To present proof of your registration purchase at the conference, please
+        either print out your ticket or use the Eventbrite mobile app to present
+        your ticket.
+      </li>
+    </ul>
+
+    <div align="center">
+      <a role="button" class="btn btn-primary" target="_blank"
+       href="https://www.eventbrite.com/e/scientific-software-days-2016-registration-20492348165">
+        <h3><strong>Register
+        <p><small>(redirects to Eventbrite)</small></strong></h3>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<div class='panel panel-default'>
+  <div class='panel-heading' id='Posters'><h2><strong>Poster Session</strong></h2></div>
+  <div class='panel-body'>
 
   <p>
     A poster session will be held on <strong>Thursday, February 25</strong>,
@@ -185,119 +422,82 @@ Chue Hong (2013).
     <strong>title</strong>, and an <strong>abstract (max. 75 words)</strong>
     for your poster.
   </p>
+  </div>
 </div>
 
-<div class='article'>
-  <div class="content-title"><h2>Conference Registration: Click <a href="https://www.eventbrite.com/e/scientific-software-days-2016-registration-20492348165">here</a> to register.</h2></div>
-  <p>
-    Conference registration is done through Eventbrite.  Click the 'Register'
-    button and you can then select what type of registration (student vs.
-    non-student) to purchase.
-  </p>
+<div class='panel panel-default'>
+  <div class='panel-heading' id='Location'><h2><strong>Location &amp; Travel</strong></h2></div>
+  <div class='panel-body'>
+    <p>Talks will be held in the <a target='_blank' href="http://www.aces.utexas.edu/seminar/2.302/frames/total.htm">Avaya Auditorium</a> in the <a href="https://www.google.com/maps/place/Peter+O'Donnell+Jr+Building,+201+E+24th+St,+Austin,+TX+78712">Peter O'Donnell Jr. Building</a> on the corner of East 24th Street &amp; Speedway on the campus of the University of Texas at Austin.</p>
 
-  <p>
-    If you register as a student, please remember to bring valid student ID
-    with you to the event.
-  </p>
+    <iframe width="100%" height="350px" style="max-width: 425px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=201+East+24th+Street,+Austin,+TX+78712&amp;aq=&amp;sll=30.286753,-97.736317&amp;sspn=149.559833,0.351562&amp;ie=UTF8&amp;hq=&amp;hnear=201+E+24th+St,+Austin,+Travis,+Texas+78712&amp;t=m&amp;ll=30.293831,-97.735577&amp;spn=0.025939,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+    <br />
+    <small>
+      <a href="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=201+East+24th+Street,+Austin,+TX+78712&amp;aq=&amp;sll=30.286753,-97.736317&amp;sspn=149.559833,0.351562&amp;ie=UTF8&amp;hq=&amp;hnear=201+E+24th+St,+Austin,+Travis,+Texas+78712&amp;t=m&amp;ll=30.293831,-97.735577&amp;spn=0.025939,0.036478&amp;z=14&amp;iwloc=A">
+        View Larger Map
+      </a>
+    </small>
 
-  <p>
-    Refunds will be allowed up until two weeks before the event.
-  </p>
+    <p></p>
 
-  <p>
-    To present proof of your registration purchase at the conference, please
-    either print out your ticket or use the Eventbrite mobile app to present
-    your ticket.
-  </p>
+    <p><strong>Public transportation</strong> information for UT Austin can be found <a target='_blank' href="http://www.utexas.edu/parking/transportation/capmetro/">here</a>.</p>
+
+    <p><strong>Visitor parking</strong> information for UT Austin can be found <a target='_blank' href="http://www.utexas.edu/parking/parking/visitor/">here</a>.</p>
+
+    <p><strong>Buses from the airport to campus and downtown Austin</strong> and back again can be found <a target='_blank' href="https://www.capmetro.org/airport/">here</a>.
+  </div>
 </div>
 
-<div class='article'>
-  <div class="content-title"><h2>Location &amp; Travel</h2></div>
-  <p>Talks will be held in the <a href="http://www.aces.utexas.edu/seminar/2.302/frames/total.htm">Avaya Auditorium</a> in the <a href="https://www.google.com/maps/place/Peter+O'Donnell+Jr+Building,+201+E+24th+St,+Austin,+TX+78712">Peter O'Donnell Jr. Building</a> on the corner of East 24th Street &amp; Speedway on the campus of the University of Texas at Austin.</p>
-
-  <p><strong>Public transportation</strong> information for UT Austin can be found <a href="http://www.utexas.edu/parking/transportation/capmetro/">here</a>.</p>
-
-  <p><strong>Visitor parking</strong> information for UT Austin can be found <a href="http://www.utexas.edu/parking/parking/visitor/">here</a>.</p>
-
-  <p><strong>Buses from the airport to campus and downtown Austin</strong> and back again can be found <a href="https://www.capmetro.org/airport/">here</a>.
+<div class='panel panel-default'>
+  <div class='panel panel-heading'><h2><strong>Additional Information</strong></h2></div>
+  <div class='panel-body'>
+    More information about the schedule of events will be posted shortly.
+  </div>
 </div>
 
-<div class='article'>
-  <div class="content-title"><h2>Additional Information</h2></div>
-  <p>More information about the schedule of events will be posted shortly.</p>
+<div class='panel panel-default'>
+  <div class='panel-heading'><h2><strong>Steering Committee</strong></h2></div>
+  <div class='panel-body'>
+    <ul>
+      <li>
+        <h4><strong><a target='_blank' href="http://www.jsg.utexas.edu/researcher/sergey_fomel/">Sergey Fomel</a> <small>University of Texas at Austin</small></strong></h4>
+      </li>
+      <li>
+        <h4><strong><a target='_blank' href="http://www.caam.rice.edu/~mk51/">Matt Knepley</a> <small>Rice University</small></strong></h4>
+      </li>
+      <li>
+        <h4><strong><a target='_blank' href="http://sites.baylor.edu/robert_kirby/">Robert Kirby</a> <small>Baylor University</small></strong></h4>
+      </li>
+      <li>
+        <h4><strong><a target='_blank' href="http://www.math.ttu.edu/~klong/">Kevin Long</a> <small>Texas Tech University</small></strong></h4>
+      </li>
+      <li>
+        <h4><strong><a target='_blank' href="http://ices.utexas.edu/~jennifer/">Jennifer Proft</a> <small>University of Texas at Austin</small></strong></h4>
+      </li>
+      <li>
+        <h4><strong><a target='_blank' href='https://www.linkedin.com/in/jim-stewart-81a0755'>James Stewart</a> <small>Sandia National Laboratories</small></strong></h4>
+      </li>
+    </ul>
+  </div>
 </div>
 
-<div class='article'>
-  <div class="content-title"><h2>Steering Committee</h2></div>
-  <dl>
-    <dd>
-    <a href="http://www.jsg.utexas.edu/researcher/sergey_fomel/">Sergey Fomel</a>, UT Austin
-    </dd>
-    <dd>
-    <a href="http://www.caam.rice.edu/~mk51/">Matt Knepley</a>, Rice University
-    </dd>
-    <dd>
-    <a href="http://sites.baylor.edu/robert_kirby/">Robert Kirby</a>, Baylor University
-    </dd>
-    <dd>
-    <a href="http://www.math.ttu.edu/~klong/">Kevin Long</a>, Texas Tech University
-    </dd>
-    <dd>
-    James Stewart, Sandia National Laboratories
-    </dd>
-  </dl>
+<div class='panel panel-default'>
+  <div class='panel-heading'><h2><strong>Organizing Committee</strong></h2></div>
+  <div class='panel-body'>
+    <ul>
+      <li>
+        <h4><strong><a target='_blank' href="https://github.com/dmcdougall">Damon McDougall</a>
+            <small>University of Texas as Austin</small></strong></h4>
+      </li>
+      <li>
+        <h4><strong><a target='_blank' href="https://www.linkedin.com/in/yenming-mark-lai-3a5389a">Yenming Mark Lai</a> <small>Zilliant</small></strong></h4>
+      </li>
+      <li>
+        <h4><strong><a target='_blank' href="http://home.uchicago.edu/~tisaac/">Tobin Isaac</a> <small>University of Chicago</small></strong></h4>
+      </li>
+    </ul>
+  </div>
 </div>
-
-<div class='article'>
-  <div class="content-title"><h2>Organizing Committee</h2></div>
-  <dl>
-    <dd>
-    <a href="https://github.com/dmcdougall">Damon McDougall</a>, UT Austin
-    </dd>
-    <dd>
-    <a href="https://www.linkedin.com/in/yenming-mark-lai-3a5389a">Yenming Mark Lai</a>, Zilliant
-    </dd>
-    <dd>
-    <a href="http://home.uchicago.edu/~tisaac/">Tobin Isaac</a>, U. Chicago
-    </dd>
-  </dl>
-</div>
-
-
-<!--
-<div class='article'>
-<h2> Featured Presentations </h2>
-<p>
-The Seventh Annual Software Days keynote address will be given by <a href="http://www.ph.ed.ac.uk/people/neil-chue-hong">Neil Chue Hong</a>, director of the Software Sustainability Institute.
-</p>
-<p>Mr. Chue Hong will speak on <b>Putting the User Back into Software Sustainability</b></p>
-<p>
-We will also feature a presentation by <a href="http://www.ph.ed.ac.uk/people/neil-chue-hong">James Howison</a> of the Information Institute of the University of Texas, on <b>Scientific Software Production: Incentives and Collaboration</b>
-</p>
-<p>
-On Tuesday Dec 17, tutorials will be offered on <a href="http://scisoftdays.org/news/2013/11/26/python-tutorial/">"Python for Data Analysis"</a>, and on 
-<a href="http://scisoftdays.org/news/2013/11/26/r-tutorial/">"High Performance and High Throughput with R"</a>.
-</p>
-</div>
-
-
-<div class='article'>
-  <div class="content-title"><h2><a href="/pages/2013_details.html">PLANNING TO ATTEND SSD 2013?</a></h2></div>
-<p>There is no cost for attendance. Unfortunately, registration has been closed.
-</p>
-<p>
-More details are available <a href="/pages/2013_details.html">here</a>.</p>
-</div>
-<hr />
-
-<div class='article'>
-  <div class="content-title"><h2>Sponsors</h2></div>
-<p>Scientific Software Days is sponsored by the Jackson School of Geosciences, Texas Advanced Computing Center, and the Insitute for Computational Engineering and Sciences, with funding from XSEDE, the Extreme Science and Engineering Discovery Environment program.
-</p>
-</div>
-
-<hr />
--->
 
 <!--
 <h2> News </h2>
@@ -495,32 +695,16 @@ by <a class="url fn" href="http://scisoftdays.org/author/andy-r-terrel.html">And
  # If articles #}
 -->
 
-        </div>
+    </div>
         
-        <div class="span3">
-            <div class="social">
-	    <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
-	    <ul class="nav nav-list">
-	      <li class="nav-header">Contact</li>
-	      <li><a href="mailto:ssd-organizers@googlegroups.com">Email organizers</a></li>
-	    </ul>
-	    </div>
-	    </div>
+    <div class="col-md-3">
+      <div class='panel panel-default'>
+        <div class='panel-heading'><h3><strong>Contact</strong></h3></div>
+        <div class='panel-body'>
+          <a href="mailto:ssd-organizers@googlegroups.com">Email organizers</a>
+        </div>
+      </div>
 
-              <!--
-            <div class="social">
-            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
-            <ul class="nav nav-list">
-                <li class="nav-header"> 
-                Social
-                </li>
-           
-                <li><a href="https://twitter.com/scisoftdays">Twitter</a></li>
-                <li><a href="https://plus.google.com/114759765621122794742">Google+</a></li>
-            </ul>
-            </div>
-            </div>
-                -->
 
               <!--
             <div class="social">
@@ -539,16 +723,16 @@ by <a class="url fn" href="http://scisoftdays.org/author/andy-r-terrel.html">And
               -->
 
 
-        </div>  
-    </div>     </div> 
-<footer>
-<br />
-<p><a href="http://scisoftdays.org">Scientific Software Days</a> &copy; SciSoftDays Organizing Committee 2015&ndash;2016</p>
-</footer>
+    </div>  
+  </div> 
+  <footer>
+    <br />
+    <p><a href="http://scisoftdays.org">Scientific Software Days</a> &copy; SciSoftDays Organizing Committee 2015&ndash;2016</p>
+  </footer>
 
 </div> <!-- /container -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-collapse.js"></script>
+<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="http://scisoftdays.org/theme/bootstrap.min.js"></script>
 <script>var _gaq=[['_setAccount','UA-34953641-1'],['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
  
 </body>
