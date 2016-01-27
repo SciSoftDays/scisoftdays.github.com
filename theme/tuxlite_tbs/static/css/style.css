@@ -1,27 +1,10 @@
 
-.jumbotron {
-  padding-bottom: 0;
-  margin-bottom: 10px;
-  background: #000 url('../images/AustinSkyline.jpg') no-repeat center top;
-  width:100%;
-  background-size:100%;
-  text-shadow: 1px 1px 1px #000;
-}
 .portrait {
   text-align: right;
 }
 @media screen and (max-width: 767px) {
   .portrait {
     text-align: left;
-  }
-}
-@media screen and (min-width: 500px) {
-  .jumbotron {
-    padding-bottom: 0;
-    background: #000 url('../images/AustinSkyline.jpg') no-repeat center bottom;
-    width:100%;
-    background-size:100%;
-    text-shadow: 1px 1px 1px #000;
   }
 }
 .cc-attribution {
