@@ -2,6 +2,7 @@ Title: Past Conferences
 URL: past.html
 Save_as: past.html
 
+* [Spring 2016](|filename|/pages/2016_detail.md)
 * [Fall 2013](|filename|/pages/2013_detail.md)
 * [Fall 2012](|filename|/pages/2012_detail.md)
 * [Spring 2011](|filename|/pages/2011_detail.md)
