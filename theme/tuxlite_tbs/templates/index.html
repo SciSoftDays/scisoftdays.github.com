@@ -9,7 +9,7 @@
   </center>
 </div>
 {% endblock %}
-{% block content %}        
+{% block content %}
 
 <div class='panel panel-default'>
   <div class='panel-heading' id='About'><h2><strong>About</strong></h2></div>
@@ -516,7 +516,7 @@
 
   <p>
     If you are interested in participating, please email the conference
-    organizers (<a href="mailto:ssd-organizers@googlegroups.com">ssd-organizers@googlegroups.com</a>), 
+    organizers (<a href="mailto:ssd-organizers@googlegroups.com">ssd-organizers@googlegroups.com</a>),
     and include the <strong>names of all authors</strong>, the
     <strong>title</strong>, and an <strong>abstract (max. 75 words)</strong>
     for your poster.  Poster presenters may also prepare <strong>2-3
@@ -645,34 +645,34 @@
 
 
 {% if articles %}
-{% for article in articles_page.object_list %}        
+{% for article in articles_page.object_list %}
 # First item #}
 {% if loop.first and not articles_page.has_previous() %}
 
     <div class='article'>
         <div class="content-title">
             <a href="{{ SITEURL }}/{{ article.url }}"><h2>{{ article.title }}</h2></a>
-            {% include "metadata.html" %} 
+            {% include "metadata.html" %}
         </div>
-        
+
         <div>{{ article.content }}</div>
         <hr />
     </div>
-		
+
     {% if loop.length == 1 %}
         {% include 'pagination.html' %}
     {% endif %}
 
 {# other items #}
-{% else %} 
+{% else %}
 
     <div class='article'>
         <a href="{{ SITEURL }}/{{ article.url }}"><h2>{{ article.title }}</h2></a>
         <div class= "well small"> {% include "metadata.html" %} </div>
         <div class="summary">{{ article.summary }} <a class="btn btn-info xsmall" href="{{ SITEURL }}/{{ article.url }}">read more</a></div>
-    </div>	
+    </div>
 
-				
+
     {% if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
         {% include 'pagination.html' %}
     {% endif %}
