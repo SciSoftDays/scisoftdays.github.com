@@ -73,7 +73,7 @@
               <li><a href="{{ link }}">{{ title }}</a></li>
             {% endif %}
           {% endfor %}
-              
+
           {% if DISPLAY_PAGES_ON_MENU %}
           {% for page in PAGES %}
               <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
@@ -91,7 +91,7 @@
     <div class="col-md-9">
       {% block content %}{% endblock %}
     </div>
-        
+
     <div class="col-md-3">
       <div class='panel panel-default'>
         <div class='panel-heading'><h3><strong>Contact</strong></h3></div>
@@ -145,6 +145,17 @@
               <strong><a href='https://nsf.gov/'>The National Science Foundation</a></strong>
             </div>
           </div>
+
+          <div class='media'>
+            <div class='media-left media-middle'>
+              <a target='_blank' href='http://www.ices.utexas.edu/'>
+                <img class='media-object' alt='Institute for Computational Engineering and Sciences' src='/images/ices.png'>
+              </a>
+          </div>
+            <div class='media-body'>
+              <strong><a href='http://www.ices.utexas.edu/'>The Institute for Computational Engineering and Sciences</a></strong>
+            </div>
+          </div>
           <p></p>
 
           <p>
@@ -164,7 +175,7 @@
         </div>
       </div>
 
-    </div> {# End col-md-3 #} 
+    </div> {# End col-md-3 #}
   </div> {# End row #}
 
   <footer>
@@ -176,6 +187,6 @@
 <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 <script src="{{ SITEURL }}/theme/bootstrap.min.js"></script>
 {% include "analytics.html" %}
-{% include "github.html" %} 
+{% include "github.html" %}
 </body>
 </html>
