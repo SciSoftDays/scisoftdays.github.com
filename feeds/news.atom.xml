@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Scientific Software Days</title><link href="http://scisoftdays.org/" rel="alternate"></link><link href="http://scisoftdays.org/feeds/news.atom.xml" rel="self"></link><id>http://scisoftdays.org/</id><updated>2013-11-26T00:00:00-06:00</updated><entry><title>Agenda</title><link href="http://scisoftdays.org/news/2013/11/26/agenda/" rel="alternate"></link><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:news/2013/11/26/agenda/</id><summary type="html">&lt;p&gt;Monday's sessions will be in &lt;a href="http://www.utexas.edu/maps/main/buildings/pob.html"&gt;POB&lt;/a&gt; Room 2.402&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Scientific Software Days - news</title><link href="http://scisoftdays.org/" rel="alternate"></link><link href="http://scisoftdays.org/feeds/news.atom.xml" rel="self"></link><id>http://scisoftdays.org/</id><updated>2013-11-26T00:00:00-06:00</updated><entry><title>Agenda</title><link href="http://scisoftdays.org/news/2013/11/26/agenda/" rel="alternate"></link><published>2013-11-26T00:00:00-06:00</published><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:/news/2013/11/26/agenda/</id><summary type="html">&lt;p&gt;Agenda&lt;/p&gt;</summary><content type="html">&lt;p&gt;Monday's sessions will be in &lt;a href="http://www.utexas.edu/maps/main/buildings/pob.html"&gt;POB&lt;/a&gt; Room 2.402&lt;/p&gt;
 &lt;table border = "3"&gt;
 &lt;tr&gt;&lt;td&gt;MONDAY&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
@@ -54,7 +54,7 @@ Chandrasekar&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Utilizing the Ne
 &lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Tutorial 2&lt;/td&gt;&lt;td&gt;2:00 - 4:30&lt;/td&gt;&lt;td&gt;Yaakoub El Khamra&lt;/td&gt;&lt;td&gt;UT - TACC&lt;/td&gt;&lt;td&gt;High Performance and High Throughput Computing with R
 &lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;</summary></entry><entry><title>Python tutorial</title><link href="http://scisoftdays.org/news/2013/11/26/python-tutorial/" rel="alternate"></link><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:news/2013/11/26/python-tutorial/</id><summary type="html">&lt;h2&gt; Offered by Peter Wang of Continuum Analytics at Scientific Software Days, Dec 17, 2013 &lt;/h2&gt;
+&lt;/table&gt;</content></entry><entry><title>Python tutorial</title><link href="http://scisoftdays.org/news/2013/11/26/python-tutorial/" rel="alternate"></link><published>2013-11-26T00:00:00-06:00</published><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:/news/2013/11/26/python-tutorial/</id><summary type="html">&lt;p&gt;Python tutorial&lt;/p&gt;</summary><content type="html">&lt;h2&gt; Offered by Peter Wang of Continuum Analytics at Scientific Software Days, Dec 17, 2013 &lt;/h2&gt;
 
 &lt;p&gt;See the &lt;a href="http://www.scisoftdays.org"&gt;home page&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;h3&gt;Description&lt;/h3&gt;
@@ -94,7 +94,7 @@ Chandrasekar&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Utilizing the Ne
 &lt;/p&gt;
 &lt;p&gt;We will also present a number of examples from the domain of Machine Learning. SciKit-Learn, like Pandas, is an extension of NumPy and Scipy with routines commonly found in classical Machine Learning.  Using SciKit-Learn we will develop a few common machine learning techniques and apply them to novel data sets.&lt;/p&gt;
 &lt;p&gt;In the second half of the course, we introduce Python for &lt;em&gt;Big Data&lt;/em&gt; Analysis and introduce two common distributed solutions: IPython Parallel and Disco.  IPython Parallel enables parallel computation to be expressed entirely in Python.  We will develop several routines for commonly used for simultaneous calculations and analysis.  Using Disco -- a Python Map Reduce framework -- we introduce the concept of Map Reduce and build up several Map Reduce scripts which can process a variety of public data sets found on Amazon’s S3.&lt;/p&gt;
-&lt;p&gt;In the final 30 minutes of the course we will introduce the next-generation of open-source tools for distributed data processing that we have been developing at Continuum.  These tools enable you to map onto large distributed data and express many calculations as easily as Pandas and NumPy but allowing the data to be out-of-core and on multiple machines. &lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>R tutorial</title><link href="http://scisoftdays.org/news/2013/11/26/r-tutorial/" rel="alternate"></link><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:news/2013/11/26/r-tutorial/</id><summary type="html">&lt;h2&gt; Offered by Yaakoub El Khamra at Scientific Software Days, Dec 17, 2013 &lt;/h2&gt;
+&lt;p&gt;In the final 30 minutes of the course we will introduce the next-generation of open-source tools for distributed data processing that we have been developing at Continuum.  These tools enable you to map onto large distributed data and express many calculations as easily as Pandas and NumPy but allowing the data to be out-of-core and on multiple machines. &lt;/p&gt;&lt;/div&gt;</content></entry><entry><title>R tutorial</title><link href="http://scisoftdays.org/news/2013/11/26/r-tutorial/" rel="alternate"></link><published>2013-11-26T00:00:00-06:00</published><updated>2013-11-26T00:00:00-06:00</updated><author><name>Michael Tobis &lt;mtobis@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-11-26:/news/2013/11/26/r-tutorial/</id><summary type="html">&lt;p&gt;R tutorial&lt;/p&gt;</summary><content type="html">&lt;h2&gt; Offered by Yaakoub El Khamra at Scientific Software Days, Dec 17, 2013 &lt;/h2&gt;
 
 &lt;p&gt;See the &lt;a href="http://www.scisoftdays.org"&gt;home page&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;h3&gt;Description&lt;/h3&gt;
@@ -110,23 +110,23 @@ Chandrasekar&lt;/td&gt;&lt;td&gt;Ohio State&lt;/td&gt;&lt;td&gt;Utilizing the Ne
 &lt;/li&gt;&lt;li&gt; hands on
 &lt;/li&gt;&lt;li&gt; Using the Xeon Phi with R
 &lt;/li&gt;&lt;li&gt; hands on
-&lt;/li&gt;&lt;/ol&gt;</summary></entry><entry><title>Announcing XSEDE Sponsorship</title><link href="http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/" rel="alternate"></link><updated>2013-10-22T13:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-10-22:news/2013/10/22/announcing-xsede-sponsorship/</id><summary type="html">&lt;p&gt;It's my pleasure to announce that XSEDE has become an official sponsor for
+&lt;/li&gt;&lt;/ol&gt;</content></entry><entry><title>Announcing XSEDE Sponsorship</title><link href="http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/" rel="alternate"></link><published>2013-10-22T13:17:00-05:00</published><updated>2013-10-22T13:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-10-22:/news/2013/10/22/announcing-xsede-sponsorship/</id><summary type="html">&lt;p&gt;Details on SSD 2013&lt;/p&gt;</summary><content type="html">&lt;p&gt;It's my pleasure to announce that XSEDE has become an official sponsor for
 SciSoftDays2013!  XSEDE is a leader in providing resources for scientific
 computing and is support SciSoftDays in its mission of training scientists in
 the best software practices in our field.  &lt;/p&gt;
 &lt;p&gt;Please keep posted as we plan on announcing our call for proposals and keynotes
-soon.&lt;/p&gt;</summary></entry><entry><title>SSD2012 schedule up</title><link href="http://scisoftdays.org/news/2012/11/28/ssd2012-schedule-up/" rel="alternate"></link><updated>2012-11-28T14:28:00-06:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2012-11-28:news/2012/11/28/ssd2012-schedule-up/</id><summary type="html">&lt;p&gt;I'm excited to announce the 2012 Scientific Software Days &lt;a href="/pages/2012_details.html#schedule"&gt;schedule&lt;/a&gt; is official
+soon.&lt;/p&gt;</content></entry><entry><title>SSD2012 schedule up</title><link href="http://scisoftdays.org/news/2012/11/28/ssd2012-schedule-up/" rel="alternate"></link><published>2012-11-28T14:28:00-06:00</published><updated>2012-11-28T14:28:00-06:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2012-11-28:/news/2012/11/28/ssd2012-schedule-up/</id><summary type="html">&lt;p&gt;SciSoftDays2012 Announcement&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'm excited to announce the 2012 Scientific Software Days &lt;a href="/pages/2012_details.html#schedule"&gt;schedule&lt;/a&gt; is official
 posted.  This year we have a range of core technology talks, open science
 talks, and software in applications talks.  In what may be a first for SSD, we
 have two speakers from medical schools, a growing segment in scientific
 software user base.&lt;/p&gt;
 &lt;p&gt;Coming soon, we will have logistics information up soon for all to see.  But if
-you have any questions feel free to email us at softwareday@tacc.utexas.edu.&lt;/p&gt;</summary></entry><entry><title>Announcing Scientific Software Days 2012</title><link href="http://scisoftdays.org/news/2012/09/25/announcing-scientific-software-days-2012/" rel="alternate"></link><updated>2012-09-25T14:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2012-09-25:news/2012/09/25/announcing-scientific-software-days-2012/</id><summary type="html">&lt;p&gt;CALL FOR PARTICIPATION: &lt;a href="http://scisoftdays.org/pages/2012_details.html"&gt;6th ANNUAL SCIENTIFIC SOFTWARE DAYS&lt;/a&gt;&lt;br /&gt;
+you have any questions feel free to email us at softwareday@tacc.utexas.edu.&lt;/p&gt;</content></entry><entry><title>Announcing Scientific Software Days 2012</title><link href="http://scisoftdays.org/news/2012/09/25/announcing-scientific-software-days-2012/" rel="alternate"></link><published>2012-09-25T14:17:00-05:00</published><updated>2012-09-25T14:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2012-09-25:/news/2012/09/25/announcing-scientific-software-days-2012/</id><summary type="html">&lt;p&gt;Call for participation to SciSoftDays2012&lt;/p&gt;</summary><content type="html">&lt;p&gt;CALL FOR PARTICIPATION: &lt;a href="http://scisoftdays.org/pages/2012_details.html"&gt;6th ANNUAL SCIENTIFIC SOFTWARE DAYS&lt;/a&gt;&lt;br&gt;
 Deadline for Proposals: Nov 1, 2012&lt;/p&gt;
-&lt;p&gt;ACES 2.402&lt;br /&gt;
-University of Texas at Austin&lt;br /&gt;
-Austin TX&lt;br /&gt;
-December 17, 2012&lt;br /&gt;
+&lt;p&gt;ACES 2.402&lt;br&gt;
+University of Texas at Austin&lt;br&gt;
+Austin TX&lt;br&gt;
+December 17, 2012&lt;br&gt;
 9 AM -- 5 PM  &lt;/p&gt;
 &lt;p&gt;Scientists use software for their research. Some of them also develop
 computational software as part of their research. Scientific Software
@@ -171,4 +171,4 @@ selection of the scientific and engineering communities with a
 particular interest in supercomputing. Let’s get to know each other
 and learn from one another.&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://scisoftdays.org/pages/2012_details.html"&gt;Conference Details&lt;/a&gt;&lt;/h3&gt;
-&lt;h3&gt;&lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ"&gt;Talk Submission&lt;/a&gt;&lt;/h3&gt;</summary></entry></feed>
+&lt;h3&gt;&lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ"&gt;Talk Submission&lt;/a&gt;&lt;/h3&gt;</content></entry></feed>

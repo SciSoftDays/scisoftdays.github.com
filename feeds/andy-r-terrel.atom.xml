@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Scientific Software Days</title><link href="http://scisoftdays.org/" rel="alternate"></link><link href="http://scisoftdays.org/feeds/andy-r-terrel.atom.xml" rel="self"></link><id>http://scisoftdays.org/</id><updated>2013-10-22T13:17:00-05:00</updated><entry><title>Announcing XSEDE Sponsorship</title><link href="http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/" rel="alternate"></link><updated>2013-10-22T13:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-10-22:news/2013/10/22/announcing-xsede-sponsorship/</id><summary type="html">&lt;p&gt;It's my pleasure to announce that XSEDE has become an official sponsor for
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Scientific Software Days - Andy R. Terrel</title><link href="http://scisoftdays.org/" rel="alternate"></link><link href="http://scisoftdays.org/feeds/andy-r-terrel.atom.xml" rel="self"></link><id>http://scisoftdays.org/</id><updated>2013-10-22T13:17:00-05:00</updated><entry><title>Announcing XSEDE Sponsorship</title><link href="http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/" rel="alternate"></link><published>2013-10-22T13:17:00-05:00</published><updated>2013-10-22T13:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2013-10-22:/news/2013/10/22/announcing-xsede-sponsorship/</id><summary type="html">&lt;p&gt;Details on SSD 2013&lt;/p&gt;</summary><content type="html">&lt;p&gt;It's my pleasure to announce that XSEDE has become an official sponsor for
 SciSoftDays2013!  XSEDE is a leader in providing resources for scientific
 computing and is support SciSoftDays in its mission of training scientists in
 the best software practices in our field.  &lt;/p&gt;
 &lt;p&gt;Please keep posted as we plan on announcing our call for proposals and keynotes
-soon.&lt;/p&gt;</summary></entry><entry><title>SSD2012 schedule up</title><link href="http://scisoftdays.org/news/2012/11/28/ssd2012-schedule-up/" rel="alternate"></link><updated>2012-11-28T14:28:00-06:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2012-11-28:news/2012/11/28/ssd2012-schedule-up/</id><summary type="html">&lt;p&gt;I'm excited to announce the 2012 Scientific Software Days &lt;a href="/pages/2012_details.html#schedule"&gt;schedule&lt;/a&gt; is official
+soon.&lt;/p&gt;</content></entry><entry><title>SSD2012 schedule up</title><link href="http://scisoftdays.org/news/2012/11/28/ssd2012-schedule-up/" rel="alternate"></link><published>2012-11-28T14:28:00-06:00</published><updated>2012-11-28T14:28:00-06:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2012-11-28:/news/2012/11/28/ssd2012-schedule-up/</id><summary type="html">&lt;p&gt;SciSoftDays2012 Announcement&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'm excited to announce the 2012 Scientific Software Days &lt;a href="/pages/2012_details.html#schedule"&gt;schedule&lt;/a&gt; is official
 posted.  This year we have a range of core technology talks, open science
 talks, and software in applications talks.  In what may be a first for SSD, we
 have two speakers from medical schools, a growing segment in scientific
 software user base.&lt;/p&gt;
 &lt;p&gt;Coming soon, we will have logistics information up soon for all to see.  But if
-you have any questions feel free to email us at softwareday@tacc.utexas.edu.&lt;/p&gt;</summary></entry><entry><title>Announcing Scientific Software Days 2012</title><link href="http://scisoftdays.org/news/2012/09/25/announcing-scientific-software-days-2012/" rel="alternate"></link><updated>2012-09-25T14:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2012-09-25:news/2012/09/25/announcing-scientific-software-days-2012/</id><summary type="html">&lt;p&gt;CALL FOR PARTICIPATION: &lt;a href="http://scisoftdays.org/pages/2012_details.html"&gt;6th ANNUAL SCIENTIFIC SOFTWARE DAYS&lt;/a&gt;&lt;br /&gt;
+you have any questions feel free to email us at softwareday@tacc.utexas.edu.&lt;/p&gt;</content></entry><entry><title>Announcing Scientific Software Days 2012</title><link href="http://scisoftdays.org/news/2012/09/25/announcing-scientific-software-days-2012/" rel="alternate"></link><published>2012-09-25T14:17:00-05:00</published><updated>2012-09-25T14:17:00-05:00</updated><author><name>Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</name></author><id>tag:scisoftdays.org,2012-09-25:/news/2012/09/25/announcing-scientific-software-days-2012/</id><summary type="html">&lt;p&gt;Call for participation to SciSoftDays2012&lt;/p&gt;</summary><content type="html">&lt;p&gt;CALL FOR PARTICIPATION: &lt;a href="http://scisoftdays.org/pages/2012_details.html"&gt;6th ANNUAL SCIENTIFIC SOFTWARE DAYS&lt;/a&gt;&lt;br&gt;
 Deadline for Proposals: Nov 1, 2012&lt;/p&gt;
-&lt;p&gt;ACES 2.402&lt;br /&gt;
-University of Texas at Austin&lt;br /&gt;
-Austin TX&lt;br /&gt;
-December 17, 2012&lt;br /&gt;
+&lt;p&gt;ACES 2.402&lt;br&gt;
+University of Texas at Austin&lt;br&gt;
+Austin TX&lt;br&gt;
+December 17, 2012&lt;br&gt;
 9 AM -- 5 PM  &lt;/p&gt;
 &lt;p&gt;Scientists use software for their research. Some of them also develop
 computational software as part of their research. Scientific Software
@@ -60,4 +60,4 @@ selection of the scientific and engineering communities with a
 particular interest in supercomputing. Let’s get to know each other
 and learn from one another.&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://scisoftdays.org/pages/2012_details.html"&gt;Conference Details&lt;/a&gt;&lt;/h3&gt;
-&lt;h3&gt;&lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ"&gt;Talk Submission&lt;/a&gt;&lt;/h3&gt;</summary></entry></feed>
+&lt;h3&gt;&lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ"&gt;Talk Submission&lt;/a&gt;&lt;/h3&gt;</content></entry></feed>
