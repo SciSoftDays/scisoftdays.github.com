@@ -1,2 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Scientific Software Days - Andy R. Terrel</title><link>http://scisoftdays.org/</link><description></description><lastBuildDate>Tue, 22 Oct 2013 13:17:00 -0500</lastBuildDate><item><title>Announcing XSEDE Sponsorship</title><link>http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/</link><description>&lt;p&gt;Details on SSD 2013&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</dc:creator><pubDate>Tue, 22 Oct 2013 13:17:00 -0500</pubDate><guid isPermaLink="false">tag:scisoftdays.org,2013-10-22:/news/2013/10/22/announcing-xsede-sponsorship/</guid></item><item><title>SSD2012 schedule up</title><link>http://scisoftdays.org/news/2012/11/28/ssd2012-schedule-up/</link><description>&lt;p&gt;SciSoftDays2012 Announcement&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</dc:creator><pubDate>Wed, 28 Nov 2012 14:28:00 -0600</pubDate><guid isPermaLink="false">tag:scisoftdays.org,2012-11-28:/news/2012/11/28/ssd2012-schedule-up/</guid></item><item><title>Announcing Scientific Software Days 2012</title><link>http://scisoftdays.org/news/2012/09/25/announcing-scientific-software-days-2012/</link><description>&lt;p&gt;Call for participation to SciSoftDays2012&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</dc:creator><pubDate>Tue, 25 Sep 2012 14:17:00 -0500</pubDate><guid isPermaLink="false">tag:scisoftdays.org,2012-09-25:/news/2012/09/25/announcing-scientific-software-days-2012/</guid></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scientific Software Days</title><link>http://scisoftdays.org/</link><description></description><atom:link href="http://scisoftdays.org/feeds/andy-r-terrel.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 22 Oct 2013 13:17:00 -0500</lastBuildDate><item><title>Announcing XSEDE Sponsorship</title><link>http://scisoftdays.org/news/2013/10/22/announcing-xsede-sponsorship/</link><description>&lt;p&gt;It's my pleasure to announce that XSEDE has become an official sponsor for
+SciSoftDays2013!  XSEDE is a leader in providing resources for scientific
+computing and is support SciSoftDays in its mission of training scientists in
+the best software practices in our field.  &lt;/p&gt;
+&lt;p&gt;Please keep posted as we plan on announcing our call for proposals and keynotes
+soon.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</dc:creator><pubDate>Tue, 22 Oct 2013 13:17:00 -0500</pubDate><guid>tag:scisoftdays.org,2013-10-22:news/2013/10/22/announcing-xsede-sponsorship/</guid></item><item><title>SSD2012 schedule up</title><link>http://scisoftdays.org/news/2012/11/28/ssd2012-schedule-up/</link><description>&lt;p&gt;I'm excited to announce the 2012 Scientific Software Days &lt;a href="/pages/2012_details.html#schedule"&gt;schedule&lt;/a&gt; is official
+posted.  This year we have a range of core technology talks, open science
+talks, and software in applications talks.  In what may be a first for SSD, we
+have two speakers from medical schools, a growing segment in scientific
+software user base.&lt;/p&gt;
+&lt;p&gt;Coming soon, we will have logistics information up soon for all to see.  But if
+you have any questions feel free to email us at softwareday@tacc.utexas.edu.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</dc:creator><pubDate>Wed, 28 Nov 2012 14:28:00 -0600</pubDate><guid>tag:scisoftdays.org,2012-11-28:news/2012/11/28/ssd2012-schedule-up/</guid></item><item><title>Announcing Scientific Software Days 2012</title><link>http://scisoftdays.org/news/2012/09/25/announcing-scientific-software-days-2012/</link><description>&lt;p&gt;CALL FOR PARTICIPATION: &lt;a href="http://scisoftdays.org/pages/2012_details.html"&gt;6th ANNUAL SCIENTIFIC SOFTWARE DAYS&lt;/a&gt;&lt;br /&gt;
+Deadline for Proposals: Nov 1, 2012&lt;/p&gt;
+&lt;p&gt;ACES 2.402&lt;br /&gt;
+University of Texas at Austin&lt;br /&gt;
+Austin TX&lt;br /&gt;
+December 17, 2012&lt;br /&gt;
+9 AM -- 5 PM  &lt;/p&gt;
+&lt;p&gt;Scientists use software for their research. Some of them also develop
+computational software as part of their research. Scientific Software
+Days is an ongoing meeting of users and producers of scientific
+software, with presentations by scientific software tool makers and
+the users of their tools. The objective is to build cross-disciplinary
+community and skills in the diverse set of users and developers of
+scientific software, both academic and industrial.&lt;/p&gt;
+&lt;p&gt;Most groups that use supercomputing cope with their scientific
+software environment in isolation, not always
+relying on prepackaged “canned” solutions. Many successful lines of
+research and development are achieved, but many times less than
+optimal paths are taken, simply because computing is done by people
+stretched between computational skills and skills in the relevant
+science and engineering specialties. Available tools and methods are
+not always known to the people who need them, and time pressure makes
+it hard to make the best use of the tools available. Support staff at
+supercomputing centers is stretched and is best at responding to
+specific issues rather than offering broad support.&lt;/p&gt;
+&lt;p&gt;We seek to build a community to address these needs. The Scientific
+Software Days at UT Austin is intended to nucleate that community. If
+you are involved in any end use or development of scientific software,
+you can benefit from and contribute to this goal.&lt;/p&gt;
+&lt;p&gt;This is, therefore, a somewhat unusual call for presentations. Ideal
+presentations for Scientific Software Days are of two types:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;presentations of generic tools that can be used in scientific
+software development and deployment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;presentations of specific work, focusing on experience in
+developing scientific software, workflows, and tool chains. We are
+especially seeking presentations of the second type.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We would appreciate a brief introduction to your work intended for a
+general scientific audience, and then a focus on your workflow or any
+particular aspect of it that presented particular challenges or
+required original solutions. The target audience will be a broad
+selection of the scientific and engineering communities with a
+particular interest in supercomputing. Let’s get to know each other
+and learn from one another.&lt;/p&gt;
+&lt;h3&gt;&lt;a href="http://scisoftdays.org/pages/2012_details.html"&gt;Conference Details&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dHVQWmYtb2ZCeGdyckNVSThKenpPRVE6MQ"&gt;Talk Submission&lt;/a&gt;&lt;/h3&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy R. Terrel &lt;andy.terrel@gmail.com&gt;</dc:creator><pubDate>Tue, 25 Sep 2012 14:17:00 -0500</pubDate><guid>tag:scisoftdays.org,2012-09-25:news/2012/09/25/announcing-scientific-software-days-2012/</guid></item></channel></rss>
